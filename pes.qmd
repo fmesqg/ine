@@ -1,0 +1,112 @@
+---
+title: "Pobreza e Exclusão Social — alguns indicadores"
+format:
+  html:
+    other-links:
+      - text: Açores.net
+        href: https://açores.net/
+    code-fold: true
+    page-layout: full
+    toc: true
+    toc-title: Conteúdos
+    embed-resources: true
+---
+Existem vários indicadores, disponibilizados pelo INE, que permitem ter uma noção das assimetrias regionais e comparar os Açores com o restante País.
+
+## [Açores.net (voltar)](https://açores.net/)
+
+
+```{python}
+import pandas as pd
+import requests
+import seaborn as sns
+
+query_base = "https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2"
+
+
+def get_df(input_dict: dict):
+    query_params = "&".join([f"{k}={v}" for k, v in input_dict.items()])
+    query = f"{query_base}&{query_params}"
+    raw_data = requests.get(query)
+    dados = raw_data.json()[0]["Dados"]
+    data = []
+    columns = []
+    for year, year_data in dados.items():
+        if not columns:
+            columns = list(dict.fromkeys(key for x in year_data for key in x))
+        for obs_dict in year_data:
+            data.append((year,) + tuple(obs_dict.get(key, None) for key in columns))
+    df = pd.DataFrame.from_records(data, columns=["ano"] + columns)
+    df["valor"] = pd.to_numeric(df["valor"])
+    return df
+
+
+def default_plot(*, title, df: pd.DataFrame):
+    df_plot = df.drop_duplicates().pivot(index="ano", columns="geodsg", values="valor")
+    ax = sns.lineplot(data=df_plot, palette="tab10", linewidth=2.5)
+    ax.set(title=title)
+    sns.move_legend(ax, bbox_to_anchor=(1.05, 1), loc="upper left")
+
+```
+
+## Pobreza ou Exclusão Social
+
+### Taxa de risco de pobreza (Após transferências sociais - %) por Local de residência (NUTS - 2013); Anual
+
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0009821&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0009821&lingua=PT)
+
+
+
+```{python}
+anos = ",".join([f"S7A{ano}" for ano in range(2018, 2024)])
+params_base = {
+    "lang": "PT",
+    "Dim1": anos,
+}
+params_pobreza = {**params_base, "varcd": "0009821"}
+
+df_pobreza = get_df(params_pobreza)
+default_plot(df=df_pobreza, title='Taxa de risco de pobreza (Após transferências sociais - %)')
+```
+
+### Proporção da população residente em risco de pobreza ou exclusão social (Europa 2030) (%) por Local de residência (NUTS - 2013); Anual
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011685&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011685&lingua=PT)
+
+
+```{python}
+params_pobreza_exc_social = {**params_base, "varcd": "0011685"}
+
+default_plot(df=get_df(params_pobreza_exc_social), title='Proporção da população residente em risco de pobreza ou exclusão social')
+```
+### Taxa de sobrelotação da habitação (%) por Local de residência (NUTS - 2013) e Tipologia de áreas urbanas; Anual
+
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0006261&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0006261&lingua=PT)
+
+
+```{python}
+# Dim3 representa a tipologia da área urbana, ver https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0006261&lingua=PT
+
+params_sobrelotação = {**params_base, "varcd": "0006261", 'Dim3':'T'}
+
+default_plot(df=get_df(params_sobrelotação), title='Taxa de sobrelotação da habitação (%)')
+```
+
+### Outros indicadores a explorar:
+#### Taxa de privação material e social (%) por Local de residência (NUTS - 2013); Anual
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011593&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011593&lingua=PT)
+
+#### Proporção da população residente (%) por Local de residência (NUTS - 2013) e Itens de privação material e social; Anual
+
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011731&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011731&lingua=PT)
+
+#### Taxa de privação material e social severa (%) por Local de residência (NUTS - 2013); Anual
+
+* [Dados](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011594&contexto=bd&selTab=tab2)
+* [Metainformação](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011594&lingua=PT)
+
+

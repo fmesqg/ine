@@ -3,7 +3,6 @@ import requests
 import seaborn as sns
 
 query_base = "https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2"
-query_meta_base = "https://www.ine.pt/ine/json_indicador/pindicaMeta.jsp?"
 
 
 def get_df(input_dict: dict):
