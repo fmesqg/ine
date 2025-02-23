@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 import seaborn as sns
 
+
 query_base = "https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2"
 
 

@@ -12,4 +12,4 @@ jobs:
           python-version: '3.13'
       - run: pip install .
       - name: Run daily code
-        run: python ine_api/get_metainfo.py
+        run: python ine_api/daily_run.py

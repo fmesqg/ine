@@ -1,0 +1,16 @@
+---
+date: '2025-02-20'
+vars_updated:
+- metadata:
+    description: Indicador de atividade económica (Série 1996 - Taxa de variação homóloga
+      - %) por Localização geográfica (Portugal); Mensal - INE, Síntese económica
+      de conjuntura
+    geo_lastlevel: Portugal
+    last_update: 21-02-2025
+    theme: Conjuntura
+    title: Indicador de atividade económica (Série 1996 - Taxa de variação homóloga
+      - %)
+    update_type: N
+    url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0014352&contexto=bd&selTab=tab2
+  var_cod: '0014352'
+---

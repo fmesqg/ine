@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atualizações</title>
+    <description>Últimas atualizações de indicadores econômicos</description>
+    <link>{{ site.url }}/rss.xml</link>
+    <icon>{{ site.url }}/favicon.ico</icon>
+    <atom:link href="{{ "/rss.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+
+    {% assign daily_updates = site.ine_updates | sort: "date" | reverse %}
+    {% for daily_update in daily_updates limit:20 %}
+    {% for var in daily_update.vars_updated %}
+      <item>
+        <title>{{ var.metadata.title | xml_escape }} - {{ update.metadata.last_update | xml_escape }}</title>
+        <link>{{ var.metadata.url | xml_escape }}</link>
+        <description>{{ var.metadata.description | xml_escape }}</description>
+        <pubDate>{{ daily_update.date | date: "%a, %d %b %Y 23:59:59 +0000" }}</pubDate>
+      </item>
+    {% endfor %}
+    {% endfor %}
+  </channel>
+</rss>
