@@ -78,7 +78,9 @@ def write_daily_update_to_yaml(var_cods_updated, date):
         with open(f"docs/_ine_updates/{date}.md", "w") as file:
             # --- around the yaml needed for jekyll
             file.write("---\n")
-            yaml.dump(data, file, default_flow_style=False, allow_unicode=True)
+            file.write("layout: default\n")
+            file.write(f"date: {day}\n")
+            # yaml.dump(data, file, default_flow_style=False, allow_unicode=True)
             file.write("---\n")
             [file.write(write_md(x)) for x in data["vars_updated"]]
         print(f"YAML file '{date}.yaml' written successfully.")
@@ -130,7 +132,7 @@ if __name__ == "__main__":
         print("error getching indicator data")
     else:
         for day in [datetime.today().strftime("%Y-%m-%d")]:
-        # for day in [f"2025-01-{str(day).zfill(2)}" for day in range(1, 24)]: # retro-trick
+        # for day in [f"2025-02-{str(day).zfill(2)}" for day in range(1, 24)]: # retro-trick
             ddmmyyyy_day = datetime.strptime(day, "%Y-%m-%d").strftime("%d-%m-%Y")
             df["last_update_datetime"] = pd.to_datetime(
                 df["last_update"], format="%d-%m-%Y"

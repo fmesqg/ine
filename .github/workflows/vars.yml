@@ -1,7 +1,7 @@
 name: Daily `bot` run 
 on:
   schedule:
-    - cron: '00 13 * * *'  # Runs daily at 23.25 UTC
+    - cron: '35 17 * * *'  # Runs daily at 23.25 UTC
 jobs:
   daily-bot-run:
     runs-on: ubuntu-latest
@@ -10,7 +10,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - run: cd src
       - run: pip install .
       - name: Run daily code
-        run: python ine_api/daily_run.py
+        run: python src/ine_api/daily_run.py
