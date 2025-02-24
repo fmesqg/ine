@@ -1,4 +1,4 @@
-# INE
+# PT [EN below]
 
 WIP.
 Vê em `ine_api_showcase.ipynb` como extrair dados rapidamente.
@@ -54,3 +54,40 @@ O módulo `ine_api` trata de lidar com a API. Exporta 2 funções fáceis de uti
 - [Taxa de sobrecarga das despesas em habitação (%) por Local de residência (NUTS - 2013) e Tipologia de áreas urbanas; Anual](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0006260&contexto=bd&selTab=tab2)
 
 #### Pobreza e desigualdade económica (TODO)
+
+# EN
+This repo aims to enable anyone to make use of the data that is gathered by Instituto Nacional de Estatística (Statistics Portugal). 
+
+```
+.
+├── docs # root of the website
+│   ├── 404.html
+│   ├── _analyses
+│   ├── _config.yml
+│   ├── feed.xml
+│   ├── Gemfile
+│   ├── index.markdown
+│   ├── _ine_updates
+│   │   └── {yyyy-mm-dd}.md # auto-generated files
+│   ├── pobreza_exc_social.html
+
+├── indicadores-existentes
+│   ├── indicadores_principais_last_update.json
+│   ├── indicadores_todos.csv
+│   └── indicadores_todos.xlsx
+├── pyproject.toml
+├── README.md
+└── src
+    ├── analyses
+    │   ├── educação-draft.ipynb
+    │   ├── educação.qmd
+    │   ├── gini_rendimento.py
+    │   ├── ine_api_showcase.ipynb
+    │   └── pobreza_exc_social.ipynb
+    └── ine_api
+        ├── base.py
+        ├── daily_run.py
+        ├── __init__.py
+        └── README.md
+
+```

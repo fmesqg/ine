@@ -13,4 +13,6 @@ collections:
   ine_updates:
     output: true
     permalink: /ine_updates/:path/
-
+  analyses:
+    output: true
+    permalink: /analyses/:path/
