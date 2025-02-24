@@ -1,15 +1,13 @@
 ---
 layout: home
 ---
-# TODO
+# WIP
 
-É _checkar_ os RSSs, _innit_?
-
-[aqui]({{ site.url }}/ine/feed.xml)
+[RSS aqui]({{ site.url }}/ine/feed.xml)
 
 ## Análises
 {% for analysis in site.analyses limit:20 %}
 
-[{{ analysis.title }}]({{ analysis.url }})
+[{{ analysis.title }}]({{ analysis.baseurl }}{{ analysis.url | relative_url }})
 
 {% endfor %}

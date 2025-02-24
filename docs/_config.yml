@@ -1,14 +1,12 @@
 theme: minima
-
 minima:
   skin: solarized
-
 
 plugins:
   - jekyll-feed
 
-title: tbd
-description: tbd
+title: INE-helper
+description: Este site tem o objetivo de facilitar o acesso aos dados do INE
 collections:
   ine_updates:
     output: true
