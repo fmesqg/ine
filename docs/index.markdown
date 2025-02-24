@@ -5,13 +5,14 @@ layout: home
 
 Trabalhar os dados do INE pode ser complexo. O objectivo deste site é que seja menos.
 
-Todo o código pode ser encontrado em `https://github.com/fmesqg/ine`.
+Todo o código pode ser encontrado em [https://github.com/fmesqg/ine](https://github.com/fmesqg/ine).
 
 
 ## Análises
-{% for analysis in site.analyses limit:20 %}
+{% assign analyses = site.analyses | sort: "date" | reverse %}
+{% for analysis in analyses limit:20 %}
 
-[{{ analysis.title }}]({{ analysis.baseurl }}{{ analysis.url | relative_url }})
+[{{ analysis.date | date_to_string }} - {{ analysis.title }}]({{ analysis.baseurl }}{{ analysis.url | relative_url }})
 
 {% endfor %}
 
