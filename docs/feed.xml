@@ -14,15 +14,14 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
 
     {% assign daily_updates = site.ine_updates | sort: "date" | reverse %}
-    {% for daily_update in daily_updates limit:20 %}
-    {% for var in daily_update.vars_updated %}
+    {% for update in daily_updates limit:20 %}
       <item>
-        <title>{{ var.metadata.title | xml_escape }} - {{ update.metadata.last_update | xml_escape }}</title>
+        <title>INE, dia {{ update.date }}</title>
+        <link>{{ site.url }}/ine_updates/{{update.date | date: "%Y-%m-%d" }}</link>
         <link>{{ var.metadata.url | xml_escape }}</link>
-        <description>{{ var.metadata.description | xml_escape }}</description>
-        <pubDate>{{ daily_update.date | date: "%a, %d %b %Y 23:59:59 +0000" }}</pubDate>
+        <description> {{ update.content }} </description>
+        <pubDate>{{ update.date | date: "%a, %d %b %Y 23:59:59 +0000" }}</pubDate>
       </item>
-    {% endfor %}
     {% endfor %}
   </channel>
 </rss>

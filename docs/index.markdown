@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# TODO
+
+É _checkar_ os RSSs, _innit_?
+
+[aqui]({{ site.url }}/feed.xml)

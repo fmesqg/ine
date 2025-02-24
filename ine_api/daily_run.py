@@ -41,37 +41,48 @@ def fetch_data(i):
         return None
 
 
-def write_daily_update_to_yaml(
-    var_cods_updated, date
-):
+def write_daily_update_to_yaml(var_cods_updated, date):
     data = {"date": day, "vars_updated": []}
+    code_to_pt = {"N": "Novo", "A": "Atualizado", "D": "Disponível"}
+
+    def write_md(json_entry: dict):
+        return f"""* [{json_entry["title"]}]({json_entry["url"]})
+  * [Metainfo]({json_entry["url_meta"]})
+  * Nível geográfico: {json_entry["geo_lastlevel"]}
+  * Tema: {json_entry["theme"]}
+  * Subtema: {json_entry["subtheme"]}
+  * Descrição: {json_entry["description"]}
+  * Último _update_: {json_entry["last_update"]}
+  * Tipo de _update_: {code_to_pt.get(json_entry["update_type"], json_entry["update_type"])}
+
+"""
 
     for var_cod in var_cods_updated:
         json = get_metadata(fetch_data(var_cod))
         if json:
             entry = {
                 "var_cod": var_cod,
-                "metadata": {
-                    "title": json[1].get("title"),
-                    "theme": json[1].get("theme"),
-                    "description": json[1].get("description"),
-                    "update_type": json[1].get("update_type"),
-                    "geo_lastlevel": json[1].get("geo_lastlevel"),
-                    "last_update": json[1].get("last_update"),
-                    "url": f"https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod={str(var_cod).zfill(7)}&contexto=bd&selTab=tab2",
-                },
+                "title": json[1].get("title"),
+                "theme": json[1].get("theme"),
+                "subtheme": json[1].get("subtheme"),
+                "description": json[1].get("description"),
+                "update_type": json[1].get("update_type"),
+                "geo_lastlevel": json[1].get("geo_lastlevel"),
+                "last_update": json[1].get("last_update"),
+                "url": f"https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod={str(var_cod).zfill(7)}&contexto=bd&selTab=tab2",
+                "url_meta": f"https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd={str(var_cod).zfill(7)}&lingua=PT",
             }
             data["vars_updated"].append(entry)
 
-
-    if data['vars_updated']:
-        with open(f"docs/_ine_updates/{date}.yaml", "w") as file:
+    if data["vars_updated"]:
+        with open(f"docs/_ine_updates/{date}.md", "w") as file:
             # --- around the yaml needed for jekyll
             file.write("---\n")
             yaml.dump(data, file, default_flow_style=False, allow_unicode=True)
             file.write("---\n")
+            [file.write(write_md(x)) for x in data["vars_updated"]]
         print(f"YAML file '{date}.yaml' written successfully.")
-    print(f"Checked {date} written successfully.")
+    print(f"Checked {date} successfully.")
 
 
 def get_indicador_df():
@@ -113,18 +124,20 @@ def get_indicador_df():
 
 
 if __name__ == "__main__":
-    for day in [datetime.today().strftime("%Y-%m-%d")]:
+    try:
         df = get_indicador_df()
-        ddmmyyyy_day = datetime.strptime(day, "%Y-%m-%d").strftime("%d-%m-%Y")
-        df["last_update_datetime"] = pd.to_datetime(
-            df["last_update"], format="%d-%m-%Y"
-        )
+    except Exception:
+        print("error getching indicator data")
+    else:
+        for day in [datetime.today().strftime("%Y-%m-%d")]:
+        # for day in [f"2025-01-{str(day).zfill(2)}" for day in range(1, 24)]: # retro-trick
+            ddmmyyyy_day = datetime.strptime(day, "%Y-%m-%d").strftime("%d-%m-%Y")
+            df["last_update_datetime"] = pd.to_datetime(
+                df["last_update"], format="%d-%m-%Y"
+            )
 
-        updated_yesterday = df.loc[
-            df["last_update"] == ddmmyyyy_day
-
-        ]
-        write_daily_update_to_yaml(
-            [var_cod for var_cod in updated_yesterday["var_cod"]],
-            date=day,
-        )
+            updated_yesterday = df.loc[df["last_update"] == ddmmyyyy_day]
+            write_daily_update_to_yaml(
+                [var_cod for var_cod in updated_yesterday["var_cod"]],
+                date=day,
+            )
