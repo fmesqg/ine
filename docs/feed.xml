@@ -4,11 +4,11 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atualizações</title>
+    <title>INE</title>
     <description>Últimas atualizações de indicadores do INE</description>
-    <link>{{ site.url }}/rss.xml</link>
-    <icon>{{ site.url }}/favicon.ico</icon>
-    <atom:link href="{{ "/rss.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <link>{{ site.baseurl }}/feed.xml</link>
+    <icon>{{ site.baseurl }}/favicon.ico</icon>
+    <atom:link href="{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
@@ -16,11 +16,10 @@ layout: null
     {% assign daily_updates = site.ine_updates | sort: "date" | reverse %}
     {% for update in daily_updates limit:20 %}
       <item>
-        <title>INE, dia {{ update.date }}</title>
-        <link>{{ site.url }}/ine_updates/{{update.date | date: "%Y-%m-%d" }}</link>
-        <link>{{ var.metadata.url | xml_escape }}</link>
+        <title>INE update {{ update.date | date: "%Y-%m-%d" }}</title>
+        <link>{{ update.baseurl }}{{ update.url | relative_url }}</link>
         <description> {{ update.content }} </description>
-        <pubDate>{{ update.date | date: "%a, %d %b %Y 23:59:59 +0000" }}</pubDate>
+        <pubDate>{{ update.date | date: "%Y-%m-%d" }}</pubDate>
       </item>
     {% endfor %}
   </channel>

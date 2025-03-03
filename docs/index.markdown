@@ -17,10 +17,11 @@ Todo o código pode ser encontrado em [https://github.com/fmesqg/ine](https://gi
 {% endfor %}
 
 ## Auto-updates
+### Todos os indicadores [aqui](/assets/ine_indicadores.csv).
+
 ### RSS
 - [RSS aqui]({{ site.url }}/ine/feed.xml)
 - Para instruções sobre como seguir _feeds_ RSS, vê, _e.g._ [este tutorial](https://açores.net/rsss).
-
 
 ### Versão web
 {% assign daily_updates = site.ine_updates | sort: "date" | reverse %}

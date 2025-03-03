@@ -6,7 +6,7 @@ plugins:
   - jekyll-feed
 
 title: INE-helper
-description: Este site tem o objetivo de facilitar o acesso aos dados do INE
+# description: Este site tem o objetivo de facilitar o acesso aos dados do INE
 collections:
   ine_updates:
     output: true

@@ -126,6 +126,9 @@ def get_indicador_df():
 if __name__ == "__main__":
     try:
         df = get_indicador_df()
+        df.sort_values(by=["last_update"], ascending=False).set_index("var_cod").drop(
+            ["cod_smi", "date_started"], axis=1
+        ).to_csv("docs/assets/ine_indicadores.csv")
     except Exception as e:
         print("error fetching indicator data")
         raise e
@@ -136,11 +139,10 @@ if __name__ == "__main__":
         for varcod in [var_cod for var_cod in df_last_4_weeks["var_cod"]]:
             if var_data := fetch_var(varcod):
                 day = var_data["last_update"]
-                updates.setdefault(day,[]).append(var_data)
+                updates.setdefault(day, []).append(var_data)
         for day, lst in updates.items():
             if datetime.strptime(day, "%d-%m-%Y") > four_weeks_ago:
                 write_daily_update_to_yaml(
                     lst,
                     date=datetime.strptime(day, "%d-%m-%Y").strftime("%Y-%m-%d"),
                 )
-
