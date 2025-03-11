@@ -1,119 +1,119 @@
 var_cod,description,portal,last_update
+0014352,Indicador de atividade económica (Série 1996 - Taxa de variação homóloga - %); Mensal,Sim,2025-03-10
+0007756,Indicador de atividade económica (Série 1991-1997 - Taxa de variação homóloga - %); Mensal,Sim,2025-03-10
 0000896,Movimento de passageiros em vias navegáveis interiores (N.º) por Carreira fluvial (Passageiros); Anual,Sim,2025-03-07
 0001477,Movimento de passageiros em vias navegáveis interiores (N.º) por Carreira fluvial (Passageiros); Mensal,Sim,2025-03-07
-0014370,Perspetivas sobre a produção nos próximos 3 meses (SRE - Valores corrigidos de sazonalidade) da indústria transformadora; Mensal,Sim,2025-03-06
 0014372,Perspetivas sobre a atividade nos próximos 3 meses (SRE - Valores corrigidos de sazonalidade) do comércio por Tipo de comércio; Mensal,Sim,2025-03-06
 0014371,Apreciação sobre o volume de vendas nos últimos 3 meses (SRE - Valores corrigidos de sazonalidade) do comércio por Tipo de comércio; Mensal,Sim,2025-03-06
+0014370,Perspetivas sobre a produção nos próximos 3 meses (SRE - Valores corrigidos de sazonalidade) da indústria transformadora; Mensal,Sim,2025-03-06
 0014363,Vendas de alojamentos familiares nos últimos 12 meses (Metodologia 2022 - N.º) por Localização geográfica (NUTS - 2024); Trimestral,Sim,2025-03-05
-0014369,Árbitros inscritos (N.º) em federações desportivas por Sexo e Modalidades desportivas; Anual,Sim,2025-03-03
+0014366,Treinadores inscritos (N.º) em federações desportivas por Localização geográfica (Distrito) e Sexo; Anual,Sim,2025-03-03
+0010309,Proporção do investimento em serviços de I&D científico em tecnologia marinha no total de investimento em produtos de propriedade intelectual (base 2016 - %); Anual,Sim,2025-03-03
 0009591,Proporção do investimento em serviços de I&D científico em tecnologia marinha no total de investimento em produtos de propriedade intelectual (base 2011 - %); Anual,Sim,2025-03-03
 0014368,Árbitros inscritos (N.º) em federações desportivas por Localização geográfica (Distrito) e Sexo; Anual,Sim,2025-03-03
 0014367,Treinadores inscritos (N.º) em federações desportivas por Sexo e Modalidades desportivas; Anual,Sim,2025-03-03
-0014366,Treinadores inscritos (N.º) em federações desportivas por Localização geográfica (Distrito) e Sexo; Anual,Sim,2025-03-03
-0010309,Proporção do investimento em serviços de I&D científico em tecnologia marinha no total de investimento em produtos de propriedade intelectual (base 2016 - %); Anual,Sim,2025-03-03
+0014369,Árbitros inscritos (N.º) em federações desportivas por Sexo e Modalidades desportivas; Anual,Sim,2025-03-03
 0014330,Indicador de confiança dos consumidores (SRE - Valores corrigidos de sazonalidade) na União Europeia; Mensal,Sim,2025-03-03
-0014365,Dissolução de pessoas coletivas e entidades equiparadas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 4); Mensal,Sim,2025-02-26
-0014364,Constituição de pessoas coletivas e entidades equiparadas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 4); Mensal,Sim,2025-02-26
 0014351,Vendas de alojamentos familiares nos últimos 3 meses (Metodologia 2022 - N.º) por Localização geográfica (NUTS - 2024); Trimestral,Sim,2025-02-26
+0014364,Constituição de pessoas coletivas e entidades equiparadas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 4); Mensal,Sim,2025-02-26
+0014365,Dissolução de pessoas coletivas e entidades equiparadas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 4); Mensal,Sim,2025-02-26
 0012537,Jornalistas com carteira profissional ativa (N.º) por Sexo; Anual,Sim,2025-02-24
 0014361,"População (N.º) por Localização geográfica à data dos Censos (Série 1900; 1940 - 2021), Sexo e Religião; Decenal",Sim,2025-02-21
 0014362,Relação de masculinidade (N.º) por Local de residência à data dos Censos (Série 1864 - 2021); Decenal,Sim,2025-02-21
-0014357,População ativa à data dos Censos (Série 1960 - 2021 - N.º) por Sexo e Grupo etário; Decenal,Sim,2025-02-20
 0014356,Densidade populacional (N.º hab./ km2) por Local de residência à data dos Censos (Série 1864 - 2021); Decenal,Sim,2025-02-20
-0014360,"População (N.º) por Local de residência à data dos Censos (Série 1864 - 2021), Sexo e Estado civil; Decenal",Sim,2025-02-20
 0014354,População presente (N.º) por Localização geográfica à data dos Censos (Série 1864 - 2011) e Sexo; Decenal,Sim,2025-02-20
 0014353,População residente (N.º) por Local de residência à data dos Censos (Série 1864 - 2021) e Sexo; Decenal,Sim,2025-02-20
+0014357,População ativa à data dos Censos (Série 1960 - 2021 - N.º) por Sexo e Grupo etário; Decenal,Sim,2025-02-20
+0014360,"População (N.º) por Local de residência à data dos Censos (Série 1864 - 2021), Sexo e Estado civil; Decenal",Sim,2025-02-20
 0014359,Índice de envelhecimento (N.º) por Local de residência à data dos Censos (Série 1864 - 2021); Decenal,Sim,2025-02-20
-0014352,Indicador de atividade económica (Série 1996 - Taxa de variação homóloga - %) por Localização geográfica (Portugal); Mensal,Sim,2025-02-20
-0014355,Idade média da população à data dos Censos (Série 1864 - 2021 - Ano); Decenal,Sim,2025-02-20
 0014358,"População (N.º) por Localização geográfica à data dos Censos (Série 1864 - 1878), Sexo e Grupo etário; Decenal",Sim,2025-02-20
+0014355,Idade média da população à data dos Censos (Série 1864 - 2021 - Ano); Decenal,Sim,2025-02-20
+0014339,Indicador de sentimento económico (Valores corrigidos de sazonalidade - Base 2000 - 2023) na União Europeia; Mensal,Sim,2025-02-18
 0014340,Índice de preços da habitação (Taxa de variação trimestral - Base 2015 - %) por Localização geográfica (NUTS - 2024) e Categoria do alojamento familiar; Trimestral,Sim,2025-02-18
-0014350,Apreciação sobre a evolução da carteira de encomendas na indústria transformadora dos principais países clientes de Portugal (SRE - Valores corrigidos de sazonalidade); Mensal,Sim,2025-02-18
-0014349,Indicador qualitativo de perspetivas de criação de emprego (Saldo de respostas extremas) pelas empresas; Mensal,Sim,2025-02-18
 0014348,"Transações (Taxa de variação (valor) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Anual",Sim,2025-02-18
+0014349,Indicador qualitativo de perspetivas de criação de emprego (Saldo de respostas extremas) pelas empresas; Mensal,Sim,2025-02-18
+0014338,Apreciação sobre o volume de vendas nos últimos 3 meses em bens de investimento (Saldo de respostas extremas) do comércio por grosso; Mensal,Sim,2025-02-18
 0014347,"Transações (Taxa de variação anual (número) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Anual",Sim,2025-02-18
 0014346,"Transações (Taxa de variação homóloga (valor) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
 0014345,"Transações (Taxa de variação trimestral (valor) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
-0014339,Indicador de sentimento económico (Valores corrigidos de sazonalidade - Base 2000 - 2023) na União Europeia; Mensal,Sim,2025-02-18
-0014334,Indicador de clima económico (%); Mensal,Sim,2025-02-18
-0014343,"Transações (Taxa de variação trimestral (número) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
-0014338,Apreciação sobre o volume de vendas nos últimos 3 meses em bens de investimento (Saldo de respostas extremas) do comércio por grosso; Mensal,Sim,2025-02-18
+0014344,"Transações (Taxa de variação homóloga (número) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
+0014350,Apreciação sobre a evolução da carteira de encomendas na indústria transformadora dos principais países clientes de Portugal (SRE - Valores corrigidos de sazonalidade); Mensal,Sim,2025-02-18
+0014333,Indicador de confiança (SRE - Valores corrigidos de sazonalidade) do comércio por Tipo de comércio; Mensal,Sim,2025-02-18
 0014337,Perspetivas sobre os preços de venda nos próximos 3 meses (SRE - Valores corrigidos de sazonalidade) do comércio por Tipo de comércio; Mensal,Sim,2025-02-18
 0014336,Perspetivas sobre os preços de venda nos próximos 3 meses (SRE - Valores corrigidos de sazonalidade) da indústria transformadora; Mensal,Sim,2025-02-18
+0014335,Perspetivas sobre a evolução dos preços nos próximos 12 meses (SRE - Valores corrigidos de sazonalidade); Mensal,Sim,2025-02-18
 0014341,Índice de preços da habitação (Taxa de variação homóloga - Base 2015 - %) por Localização geográfica (NUTS - 2024) e Categoria do alojamento familiar; Trimestral,Sim,2025-02-18
 0014342,Índice de preços da habitação (Taxa de variação média - Base 2015 - %) por Localização geográfica (NUTS - 2024) e Categoria do alojamento familiar; Trimestral,Sim,2025-02-18
-0014335,Perspetivas sobre a evolução dos preços nos próximos 12 meses (SRE - Valores corrigidos de sazonalidade); Mensal,Sim,2025-02-18
-0014333,Indicador de confiança (SRE - Valores corrigidos de sazonalidade) do comércio por Tipo de comércio; Mensal,Sim,2025-02-18
+0014334,Indicador de clima económico (%); Mensal,Sim,2025-02-18
 0014332,Indicador de confiança (SRE - Valores corrigidos de sazonalidade) da indústria transformadora; Mensal,Sim,2025-02-18
-0014344,"Transações (Taxa de variação homóloga (número) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
+0014343,"Transações (Taxa de variação trimestral (número) - %) de alojamentos familiares por Localização geográfica (NUTS - 2024), Categoria do alojamento familiar, Domicílio fiscal do comprador e Setor institucional do comprador; Trimestral",Sim,2025-02-18
+0014325,Indicador de formação bruta de capital fixo em equipamento de transporte - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
 0014329,Indicador de sentimento económico (Valores corrigidos de sazonalidade - Base 2000 - 2023) na Área Euro; Mensal,Sim,2025-02-17
-0014331,Indicador de confiança dos consumidores (SRE - Valores corrigidos de sazonalidade) na Área Euro; Mensal,Sim,2025-02-17
-0014324,Indicador de formação bruta de capital fixo em outras máquinas e equipamentos - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
+0014326,Indicador de consumo privado - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - %); Mensal,Sim,2025-02-17
 0014327,Indicador de consumo privado em bens duradouros - ajustado de efeitos de calendário e de sazonalidade (Base 2021 - %); Mensal,Sim,2025-02-17
 0014328,Indicador de consumo privado em bens não duradouros e serviços - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
-0014325,Indicador de formação bruta de capital fixo em equipamento de transporte - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
-0014322,Indicador de formação bruta de capital fixo - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
 0014323,Indicador de formação bruta de capital fixo em construção - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
-0014326,Indicador de consumo privado - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - %); Mensal,Sim,2025-02-17
+0014331,Indicador de confiança dos consumidores (SRE - Valores corrigidos de sazonalidade) na Área Euro; Mensal,Sim,2025-02-17
 0014320,Índice de emprego total - bruto (Taxa de variação homóloga - Base 2021 - %) das empresas; Mensal,Sim,2025-02-17
+0014322,Indicador de formação bruta de capital fixo - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
 0014321,Índice de produção industrial dos principais países clientes de Portugal - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
-0001222,Indicador de clima económico (% - mm3m); Mensal,Sim,2025-02-14
-0002103,Consumo de energia primária (tep) por Tipo de fonte de energia e Tipo de consumo; Anual,Sim,2025-02-14
+0014324,Indicador de formação bruta de capital fixo em outras máquinas e equipamentos - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %); Mensal,Sim,2025-02-17
 0000900,Lugares-quilómetro oferecidos (N.º) pelas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Mensal,Sim,2025-02-14
-0006440,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2001); Anual,Sim,2025-02-14
-0011579,Proporção de núcleos familiares com filhos empregados (%) por Local de residência à data dos Censos [2021]; Decenal,Sim,2025-02-14
-0000899,Passageiros-quilómetro transportados (N.º) pelas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Mensal,Sim,2025-02-14
-0000898,Passageiros transportados (N.º) pelas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Mensal,Sim,2025-02-14
-0014150,Proporção de mercadorias chegadas por modo rodoviário (%) em transporte intracomunitário por Local de destino (NUTS - 2024); Anual,Sim,2025-02-14
-0014151,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2024); Anual,Sim,2025-02-14
-0001453,Proporção de mercadorias chegadas por modo rodoviário (%) em transporte intracomunitário por Local de destino (NUTS - 2013); Anual,Sim,2025-02-14
-0001622,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2013); Anual,Sim,2025-02-14
-0011355,"Proporção da despesa em Inovação e I&D das empresas com atividades de inovação com 10 e mais pessoas ao serviço (%) por Atividade económica (CAE Rev. 3), Escalão de pessoal ao serviço e Tipo de Despesas em Inovação e I&D; Bienal",Sim,2025-02-14
-0011347,Proporção da despesa em Inovação e I&D das empresas com atividades de inovação com 10 e mais pessoas ao serviço (%) por Localização geográfica (NUTS - 2013) e Tipo de Despesas em Inovação e I&D; Bienal,Sim,2025-02-14
-0011469,Desperdício alimentar por habitante (kg/ hab.); Anual,Sim,2025-02-14
 0011470,Desperdício alimentar (t) por Elos da cadeia de abastecimento alimentar; Anual,Sim,2025-02-14
-0003715,Material circulante (N.º) das empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Anual,Sim,2025-02-14
+0014151,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2024); Anual,Sim,2025-02-14
+0014150,Proporção de mercadorias chegadas por modo rodoviário (%) em transporte intracomunitário por Local de destino (NUTS - 2024); Anual,Sim,2025-02-14
+0011579,Proporção de núcleos familiares com filhos empregados (%) por Local de residência à data dos Censos [2021]; Decenal,Sim,2025-02-14
 0003716,Pessoal ao serviço (N.º) nas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano e Profissão; Anual,Sim,2025-02-14
-0007756,Indicador de atividade económica (Série 1991-1997 - Taxa de variação homóloga - %); Mensal,Sim,2025-02-14
-0014187,Pessoal não docente do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014186,Diplomadas/os do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014281,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar com serviço de maternidade mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014189,Tempo mediano de acesso a pé da população residente entre os 18 e 22 anos ao estabelecimento de ensino superior mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014188,Tempo mediano de acesso a pé da população residente com 18 ou mais anos ao estabelecimento de ensino superior mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014184,Estabelecimentos de ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Natureza institucional; Anual,Sim,2025-02-03
-0014190,Alunas/os inscritas/os no ensino superior por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0000899,Passageiros-quilómetro transportados (N.º) pelas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Mensal,Sim,2025-02-14
+0003715,Material circulante (N.º) das empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Anual,Sim,2025-02-14
+0001622,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2013); Anual,Sim,2025-02-14
+0001453,Proporção de mercadorias chegadas por modo rodoviário (%) em transporte intracomunitário por Local de destino (NUTS - 2013); Anual,Sim,2025-02-14
+0002103,Consumo de energia primária (tep) por Tipo de fonte de energia e Tipo de consumo; Anual,Sim,2025-02-14
+0000898,Passageiros transportados (N.º) pelas empresas exploradoras de sistema ferroviário ligeiro por Sistema de metropolitano; Mensal,Sim,2025-02-14
+0006440,Proporção de mercadorias expedidas por modo rodoviário (%) em transporte intracomunitário por Local de origem (NUTS - 2001); Anual,Sim,2025-02-14
+0001222,Indicador de clima económico (% - mm3m); Mensal,Sim,2025-02-14
+0011347,Proporção da despesa em Inovação e I&D das empresas com atividades de inovação com 10 e mais pessoas ao serviço (%) por Localização geográfica (NUTS - 2013) e Tipo de Despesas em Inovação e I&D; Bienal,Sim,2025-02-14
+0011355,"Proporção da despesa em Inovação e I&D das empresas com atividades de inovação com 10 e mais pessoas ao serviço (%) por Atividade económica (CAE Rev. 3), Escalão de pessoal ao serviço e Tipo de Despesas em Inovação e I&D; Bienal",Sim,2025-02-14
+0011469,Desperdício alimentar por habitante (kg/ hab.); Anual,Sim,2025-02-14
 0014266,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar com serviço de maternidade mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014283,Bombeiros (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Tipo de vínculo; Anual,Sim,2025-02-03
+0014186,Diplomadas/os do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014187,Pessoal não docente do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014188,Tempo mediano de acesso a pé da população residente com 18 ou mais anos ao estabelecimento de ensino superior mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014189,Tempo mediano de acesso a pé da população residente entre os 18 e 22 anos ao estabelecimento de ensino superior mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014190,Alunas/os inscritas/os no ensino superior por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014273,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014185,Alunas/os inscritas/os no ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014265,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar com serviço de urgência mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014191,Diplomadas/os do ensino superior por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014264,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014263,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de maternidade é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014262,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de maternidade é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014261,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de urgência é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014185,Alunas/os inscritas/os no ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014273,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014267,Hospitais (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Modalidade; Anual,Sim,2025-02-03
-0014268,Hospitais (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Natureza institucional; Anual,Sim,2025-02-03
 0014282,Corpos de bombeiros (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014283,Bombeiros (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Tipo de vínculo; Anual,Sim,2025-02-03
-0014284,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014280,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar com serviço de urgência mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014267,Hospitais (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Modalidade; Anual,Sim,2025-02-03
+0014184,Estabelecimentos de ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Natureza institucional; Anual,Sim,2025-02-03
+0014274,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014268,Hospitais (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Natureza institucional; Anual,Sim,2025-02-03
+0014269,Camas (N.º) dos hospitais por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014270,Salas de operação (N.º) dos hospitais por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014284,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014271,Camas (lotação praticada) nos hospitais por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014272,Internamentos nos hospitais por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014281,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar com serviço de maternidade mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014259,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014279,Tempo mediano de acesso em automóvel ligeiro da população residente ao estabelecimento hospitalar mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014278,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de maternidade é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014277,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de maternidade é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014276,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de urgência é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014275,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de urgência é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014274,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014272,Internamentos nos hospitais por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014271,Camas (lotação praticada) nos hospitais por 1000 habitantes (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014270,Salas de operação (N.º) dos hospitais por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014269,Camas (N.º) dos hospitais por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014260,Proporção de população residente cuja proximidade a um estabelecimento hospitalar com serviço de urgência é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014204,Docentes do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014205,Pessoal não docente do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014258,Proporção de população residente cuja proximidade a um estabelecimento hospitalar é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014198,Proporção de população residente entre os 18 e 22 anos cuja proximidade a um estabelecimento de ensino superior é inferior a 30 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014205,Pessoal não docente do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014286,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014204,Docentes do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014203,Vagas no ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014202,Diplomadas/os do ensino superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014201,Tempo mediano de acesso em automóvel ligeiro da população residente entre os 18 e 22 anos ao estabelecimento de ensino superior mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
@@ -148,7 +148,7 @@ var_cod,description,portal,last_update
 0014211,Proporção de população residente com 18 ou mais anos cuja proximidade a um estabelecimento de ensino superior é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014210,Proporção de população residente entre os 18 e 22 anos cuja proximidade a um estabelecimento de ensino superior é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014285,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014224,Proporção de população residente entre os 3 e 5 anos cuja proximidade a um estabelecimento com ensino pré-escolar é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014223,Pessoal não docente do ensino não superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Natureza institucional; Anual,Sim,2025-02-03
 0014287,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014309,Museus (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Tipologia; Anual,Sim,2025-02-03
 0014311,Pessoal ao serviço (N.º) nos museus por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
@@ -187,14 +187,14 @@ var_cod,description,portal,last_update
 0014293,Pessoal ao serviço (N.º) nos museus por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014292,Bens dos museus (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014291,Museus (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Tipologia; Anual,Sim,2025-02-03
-0014307,Tempo mediano de acesso a pé da população residente ao corpo de bombeiros mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014290,Museus (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Natureza institucional; Anual,Sim,2025-02-03
+0014307,Tempo mediano de acesso a pé da população residente ao corpo de bombeiros mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014229,Proporção de população residente entre os 15 e 17 anos cuja proximidade a um estabelecimento com ensino secundário é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014228,Proporção de população residente entre os 15 e 17 anos cuja proximidade a um estabelecimento com ensino secundário é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014227,Proporção de população residente entre os 6 e 14 anos cuja proximidade a um estabelecimento com ensino básico é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014226,Proporção de população residente entre os 6 e 14 anos cuja proximidade a um estabelecimento com ensino básico é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014225,Proporção de população residente entre os 3 e 5 anos cuja proximidade a um estabelecimento com ensino pré-escolar é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014223,Pessoal não docente do ensino não superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013) e Natureza institucional; Anual,Sim,2025-02-03
+0014224,Proporção de população residente entre os 3 e 5 anos cuja proximidade a um estabelecimento com ensino pré-escolar é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014222,"Docentes do ensino não superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013), Nível de ensino e Natureza institucional; Anual",Sim,2025-02-03
 0014221,"Alunas/os matriculadas/os no ensino não superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013), Nível de ensino e Natureza institucional; Anual",Sim,2025-02-03
 0014220,"Estabelecimentos de ensino não superior (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013), Nível de ensino e Natureza institucional; Anual",Sim,2025-02-03
@@ -202,25 +202,25 @@ var_cod,description,portal,last_update
 0014295,Proporção de população residente cuja proximidade a um museu é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014294,Proporção de população residente cuja proximidade a um museu é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
 0014304,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 15 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014297,Proporção de população residente cuja proximidade a um museu é inferior a 30 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014306,Tempo mediano de acesso em automóvel ligeiro da população residente ao corpo de bombeiros mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014298,Tempo mediano de acesso em automóvel ligeiro da população residente ao museu mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014306,Tempo mediano de acesso em automóvel ligeiro da população residente ao corpo de bombeiros mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014299,Tempo mediano de acesso a pé da população residente ao museu mais próximo (min) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
-0014302,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014300,Corpos de bombeiros (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014305,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
-0014303,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
+0014302,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 30 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014301,Bombeiros (N.º) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024) e Tipo de vínculo; Anual,Sim,2025-02-03
+0014297,Proporção de população residente cuja proximidade a um museu é inferior a 30 minutos a pé (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2013); Anual,Sim,2025-02-03
+0014303,Proporção de população residente cuja proximidade a um corpo de bombeiros é inferior a 60 minutos em automóvel ligeiro (%) por Localização geográfica (georreferenciação) (CAOP 2020 - NUTS - 2024); Anual,Sim,2025-02-03
 0014182,"Índice de preços no consumidor (IPC, Base - 2012) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Mensal",Sim,2025-01-29
+0014180,Índice de preços no consumidor (Taxa de variação mensal - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Mensal,Sim,2025-01-29
 0014181,Índice de preços no consumidor (Taxa de variação média dos últimos 12 meses - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Mensal,Sim,2025-01-29
 0014183,Índice de preços no consumidor (Taxa de variação homóloga - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Mensal,Sim,2025-01-29
-0014180,Índice de preços no consumidor (Taxa de variação mensal - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Mensal,Sim,2025-01-29
 0014179,Índice de preços no consumidor (Taxa de variação média dos últimos 12 meses - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal,Sim,2025-01-28
 0014174,"Índice de preços no consumidor (IPC, Base - 2012) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Anual",Sim,2025-01-28
+0014178,Índice de preços no consumidor (Taxa de variação mensal - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal,Sim,2025-01-28
+0014176,"Índice de preços no consumidor (IPC, Base - 2012) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal",Sim,2025-01-28
 0014175,"Índice de preços no consumidor (IPC, Base - 2012) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Anual",Sim,2025-01-28
 0014177,Índice de preços no consumidor (Taxa de variação homóloga - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal,Sim,2025-01-28
-0014176,"Índice de preços no consumidor (IPC, Base - 2012) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal",Sim,2025-01-28
-0014178,Índice de preços no consumidor (Taxa de variação mensal - Base 2012 - %) por Localização geográfica (NUTS II - 2024) e Agregados especiais; Mensal,Sim,2025-01-28
 0014169,Extensão total das linhas ferroviárias (km) da rede ferroviária nacional por Localização geográfica (NUTS - 2024) e Tipo de eletrificação ferroviária; Anual,Sim,2025-01-24
 0014168,Extensão de linhas e vias exploradas (km) por Localização geográfica (NUTS - 2024) e Tipo de via ferroviária; Anual,Sim,2025-01-24
 0014173,Proporção da rede ferroviária nacional eletrificada (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-01-24
@@ -239,29 +239,29 @@ var_cod,description,portal,last_update
 0014157,Consumidores de energia elétrica (N.º) por Localização geográfica (NUTS - 2024) e Tipo de consumo; Anual,Sim,2025-01-15
 0014158,Consumo total de energia elétrica por consumidor (kWh/ cons.) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-01-15
 0014156,Consumo de energia elétrica (kWh) por Localização geográfica (NUTS - 2024) e Tipo de consumo; Anual,Sim,2025-01-15
-0014161,Consumo de energia elétrica na agricultura por consumidor (kWh/ cons.) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-01-15
 0014160,Consumo de energia elétrica na indústria por consumidor (kWh/ cons.) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-01-15
+0014161,Consumo de energia elétrica na agricultura por consumidor (kWh/ cons.) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-01-15
 0014153,"Proporção do valor acrescentado bruto da indústria e dos serviços (excluindo as atividades financeiras e de seguros, as atividades imobiliárias e a administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social) (Base 2021 - %) por Localização geográfica (NUTS - 2024); Anual",Sim,2025-01-13
 0014152,Valor acrescentado bruto (B.1g) a preços correntes (Base 2021 - €) por Localização geográfica (NUTS - 2024) e Ramo de atividade (A10); Anual,Sim,2025-01-13
+0002725,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-01-04
 0002724,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-01-04
 0002723,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-01-04
-0002725,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-01-04
-0014149,Emissões de gases com efeito de estufa das atividades de produção per capita (kg/ hab.) por Localização geográfica (NUTS I); Anual,Sim,2025-01-03
+0008852,Relação de masculinidade (N.º) por Local de residência (NUTS - 2013) e Tipologia de áreas urbanas; Anual,Sim,2025-01-03
 0000606,Relação de masculinidade (N.º) por Local de residência (NUTS - 2002); Anual,Sim,2025-01-03
-0011612,Relação de masculinidade (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2013); Decenal,Sim,2025-01-03
-0008257,Relação de masculinidade (N.º) por Local de residência (NUTS - 2013); Anual,Sim,2025-01-03
 0013352,Relação de masculinidade (N.º) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-01-03
-0006043,Relação de masculinidade (N.º) por Local de residência (Freguesia - à data dos Censos 2011); Decenal,Sim,2025-01-03
+0001275,Relação de masculinidade (N.º) por Grupo etário; Anual,Sim,2025-01-03
 0012908,Relação de masculinidade (N.º) por Local de residência (NUTS - 2024); Anual,Sim,2025-01-03
 0012279,Relação de masculinidade (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024); Decenal,Sim,2025-01-03
-0008852,Relação de masculinidade (N.º) por Local de residência (NUTS - 2013) e Tipologia de áreas urbanas; Anual,Sim,2025-01-03
-0001275,Relação de masculinidade (N.º) por Grupo etário; Anual,Sim,2025-01-03
+0014149,Emissões de gases com efeito de estufa das atividades de produção per capita (kg/ hab.) por Localização geográfica (NUTS I); Anual,Sim,2025-01-03
+0011612,Relação de masculinidade (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2013); Decenal,Sim,2025-01-03
 0006038,Relação de masculinidade (N.º) por Local de residência (Freguesia - à data dos Censos 2001); Decenal,Sim,2025-01-03
-0000345,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 2.1); Anual,Sim,2025-01-01
-0000343,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 2.1); Anual,Sim,2025-01-01
-0007263,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 2); Anual,Sim,2025-01-01
-0007262,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 2); Anual,Sim,2025-01-01
+0006043,Relação de masculinidade (N.º) por Local de residência (Freguesia - à data dos Censos 2011); Decenal,Sim,2025-01-03
+0008257,Relação de masculinidade (N.º) por Local de residência (NUTS - 2013); Anual,Sim,2025-01-03
 0007261,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 2); Anual,Sim,2025-01-01
+0000343,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 2.1); Anual,Sim,2025-01-01
+0007262,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 2); Anual,Sim,2025-01-01
+0007263,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 2); Anual,Sim,2025-01-01
+0000345,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 2.1); Anual,Sim,2025-01-01
 0000344,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 2.1); Anual,Sim,2025-01-01
 0011591,Número de dias com temperatura máxima do ar superior ou igual a 35ºC (Dia) por Localização geográfica (estação meteorológica); Anual,Sim,2024-12-30
 0011589,Número de dias com temperatura máxima do ar superior ou igual a 30ºC (Dia) por Localização geográfica (estação meteorológica); Anual,Sim,2024-12-30
@@ -12410,7 +12410,7 @@ var_cod,description,portal,last_update
 0005610,Óbitos fetais tardios (N.º) por Local de residência da mãe (Distrito/ Região) e Sexo; Anual,Sim,2011-05-05
 0005609,Óbitos fetais (N.º) por Local de residência da mãe (Distrito/ Região) e Sexo; Anual,Sim,2011-05-05
 0005605,"Óbitos (N.º) por Local de residência (Distrito/ Região), Sexo e Idade; Anual",Sim,2011-05-05
-0005604,Óbitos (N.º) por Local de residência (NUTS 2002) e Sexo; Anual,Sim,2011-05-05
+0005604,Óbitos (N.º) por Local de residência (NUTS - 2002) e Sexo; Anual,Sim,2011-05-05
 0002006,Taxa de abandono precoce de educação e formação (Série 1998 - %) por Local de residência (NUTS - 2002) e Sexo; Anual,Sim,2011-03-23
 0002007,Taxa de abandono precoce de educação e formação (Série 1998 - %) por Local de residência (NUTS - 2001) e Sexo; Anual,Sim,2011-03-23
 0005405,Bilhetes vendidos de cinema (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2011-03-14
