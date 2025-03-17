@@ -14590,3 +14590,7 @@ var_cod,description,portal,last_update
 ,VAB gerado pelo turismo em proporção do VAB total (Base 2021 - %); Anual,Não,
 ,Taxa de variação do VAB gerado pelo turismo (Base 2021 - %); Anual,Não,
 ,Proporção do investimento em serviços de I&D científico em tecnologia marinha no total de investimento em produtos de propriedade intelectual (base 2021 - %); Anual,Não,
+,Consumo de eletricidade corrigido de dias úteis e temperatura (GWh); Mensal,Não,
+,Consumo de eletricidade corrigido de dias úteis e temperatura (Taxa de variação homóloga - %); Mensal,Não,
+,Preço do petróleo Brent (€/ barril); Mensal,Não,
+,Preço do petróleo Brent (Taxa de variação homóloga - %); Mensal,Não,
