@@ -14592,3 +14592,5 @@ var_cod,description,portal,last_update
 ,Consumo de eletricidade corrigido de dias úteis e temperatura (Taxa de variação homóloga - %); Mensal,Não,
 ,Preço do petróleo Brent (€/ barril); Mensal,Não,
 ,Preço do petróleo Brent (Taxa de variação homóloga - %); Mensal,Não,
+,Vendas de combustíveis no mercado interno (t) por Tipo de combustível; Mensal,Não,
+,Vendas de combustíveis no mercado interno (Taxa de variação homóloga - %) por Tipo de combustível; Mensal,Não,
