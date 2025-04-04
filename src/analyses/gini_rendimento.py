@@ -20,9 +20,7 @@ params_gini = {
 }
 
 
-df_gini = (
-    get_df(params_gini).rename(columns={"valor": "gini"}).set_index("geocod")
-)
+df_gini = get_df(params_gini).rename(columns={"valor": "gini"}).set_index("geocod")
 df_mediano = (
     get_df(params_rendimento_mediano_bruto)
     .rename(columns={"valor": "rendimento_bruto_mediano"})
