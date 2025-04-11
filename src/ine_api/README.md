@@ -32,7 +32,7 @@
 
 ```{text}
 Caro/a Utilizador/a,
-Francisco Mesquita
+Francisco
 
 Agradecemos o seu pedido n.º PED-684641526.
 

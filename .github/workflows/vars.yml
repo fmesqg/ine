@@ -1,7 +1,8 @@
 name: Daily `bot` run 
 on:
   schedule:
-    - cron: '26 22 * * *' 
+    - cron: '23 0 * * *' 
+  workflow_dispatch: 
 jobs:
   daily-bot-run:
     runs-on: ubuntu-latest
@@ -10,9 +11,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - run: pip install .
+      - run: |
+          python -m pip install --upgrade pip
+          pip install poetry
+          poetry install
       - name: Run daily code
-        run: python src/ine_api/daily_run.py
+        run: poetry run python src/ine_api/daily_run.py
       - name: Commit and push if there are changes
         run: |
           if [ $(git ls-files -o --exclude-standard | wc -l) -gt 0 ] || [[ $(git diff --name-only | wc -l) -gt 0 ]]
