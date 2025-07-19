@@ -1,4 +1,5 @@
 var_cod,description,portal,last_update
+0014514,Distribuição de pessoal ao serviço afeto exclusivamente a atividades TIC nas Câmaras Municipais (%) por Localização geográfica (NUTS - 2024) e Sexo; Anual,Sim,2025-07-18
 0014527,População residente (N.º) por Local de residência (à data dos Censos 2011) e Escalão de dimensão populacional; Decenal,Sim,2025-07-17
 0014526,População residente (N.º) por Local de residência (NUTS - 2024) e Escalão de dimensão populacional; Decenal,Sim,2025-07-17
 0014525,População residente (N.º) por Local de residência (NUTS - 2013) e Escalão de dimensão populacional; Decenal,Sim,2025-07-17
@@ -22,13 +23,13 @@ var_cod,description,portal,last_update
 0009870,Índice de preços dos meios de produção na agricultura (Base - 2015) por Meio de produção na agricultura; Mensal,Sim,2025-07-10
 0009871,Índice de preços dos meios de produção na agricultura (Taxa de variação homóloga - Base 2015 - %) por Meio de produção na agricultura; Mensal,Sim,2025-07-10
 0009872,Índice de preços dos meios de produção na agricultura (Taxa de variação mensal - Base 2015 - %) por Meio de produção na agricultura; Mensal,Sim,2025-07-10
-0014462,Índice de preços dos meios de produção na agricultura (Base - 2020) por Meio de produção na agricultura; Anual,Sim,2025-07-10
 0014468,Índice de preços de produtos agrícolas no produtor (Taxa de variação mensal - Base 2020 - %) por Produto agrícola; Mensal,Sim,2025-07-10
+0014467,Índice de preços de produtos agrícolas no produtor (Taxa de variação homóloga - Base 2020 - %) por Produto agrícola; Mensal,Sim,2025-07-10
 0014463,Índice de preços dos meios de produção na agricultura (Base - 2020) por Meio de produção na agricultura; Mensal,Sim,2025-07-10
 0009865,Índice de preços de produtos agrícolas no produtor (Base - 2015) por Produto agrícola; Mensal,Sim,2025-07-10
 0014461,Índice de preços de produtos agrícolas no produtor (Base - 2020) por Produto agrícola; Anual,Sim,2025-07-10
 0014466,Índice de preços de produtos agrícolas no produtor (Base - 2020) por Produto agrícola; Mensal,Sim,2025-07-10
-0014467,Índice de preços de produtos agrícolas no produtor (Taxa de variação homóloga - Base 2020 - %) por Produto agrícola; Mensal,Sim,2025-07-10
+0014462,Índice de preços dos meios de produção na agricultura (Base - 2020) por Meio de produção na agricultura; Anual,Sim,2025-07-10
 0009866,Índice de preços de produtos agrícolas no produtor (Taxa de variação homóloga - Base 2015 - %) por Produto agrícola; Mensal,Sim,2025-07-10
 0009805,Índice de preços dos meios de produção na agricultura (Taxa de variação homóloga - Base 2010 - %) por Meio de produção na agricultura; Mensal,Sim,2025-07-10
 0009868,Índice de preços de produtos agrícolas no produtor (Base - 2015) por Produto agrícola; Anual,Sim,2025-07-10
@@ -57,111 +58,110 @@ var_cod,description,portal,last_update
 0000871,Índice de preços de produtos agrícolas no produtor (Taxa de variação média anual - Base 2000 - %) por Localização geográfica (Continente) e Produto agrícola; Mensal,Sim,2025-07-10
 0000874,Índice de preços dos meios de produção na agricultura (Base - 2000) por Localização geográfica (Continente) e Meio de produção na agricultura; Mensal,Sim,2025-07-10
 0000870,Índice de preços de produtos agrícolas no produtor (Base - 2000) por Localização geográfica (Continente) e Produto agrícola; Mensal,Sim,2025-07-10
-0014505,Distribuição de Câmaras Municipais com estratégia definida para a cibersegurança (%) por Localização geográfica (NUTS - 2024) e Tipo de conformidade com o RJSC; Anual,Sim,2025-07-09
-0014502,Proporção de Câmaras Municipais com medidas de cibersegurança implementadas (%) por Localização geográfica (NUTS - 2024) e Tipo de medida de segurança (TIC); Anual,Sim,2025-07-09
-0014503,Câmaras Municipais com estratégia definida para a cibersegurança (N.º) por Localização geográfica (NUTS - 2024) e Tipo de conformidade com o RJSC; Anual,Sim,2025-07-09
-0014504,Proporção de Câmaras Municipais com estratégia definida para a cibersegurança (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014513,Pessoal ao serviço afeto exclusivamente a atividades TIC nas Câmaras Municipais (N.º) por Localização geográfica (NUTS - 2024) e Sexo; Anual,Sim,2025-07-09
-0014501,Câmaras Municipais com medidas de cibersegurança implementadas (N.º) por Localização geográfica (NUTS - 2024) e Tipo de medida de segurança (TIC); Anual,Sim,2025-07-09
-0014512,Proporção de Câmaras Municipais que consideram o impacto ambiental na escolha de serviços e equipamentos TIC (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014499,Câmaras Municipais que disponibilizam aplicações móveis ao utente (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014487,Câmaras Municipais que utilizam tecnologias de Inteligência Artificial (IA) (N.º) por Localização geográfica (NUTS - 2024) e Tipo de tecnologia de Inteligência Artificial; Anual,Sim,2025-07-09
+0014511,Câmaras Municipais que consideram o impacto ambiental na escolha de serviços e equipamentos TIC (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014484,Câmaras Municipais que compram serviços de computação em nuvem (cloud computing) (N.º) por Localização geográfica (NUTS - 2024) e Tipo de serviço de computação em nuvem; Anual,Sim,2025-07-09
 0014485,Proporção de Câmaras Municipais que compram serviços de computação em nuvem (cloud computing) (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014486,Distribuição de Câmaras Municipais que compram serviços de computação em nuvem (cloud computing) (%) por Localização geográfica (NUTS - 2024) e Tipo de serviço de computação em nuvem; Anual,Sim,2025-07-09
-0014487,Câmaras Municipais que utilizam tecnologias de Inteligência Artificial (IA) (N.º) por Localização geográfica (NUTS - 2024) e Tipo de tecnologia de Inteligência Artificial; Anual,Sim,2025-07-09
+0014510,Proporção de Câmaras Municipais que aplicam medidas que reduzem o consumo de energia dos equipamentos TIC (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014509,Câmaras Municipais que aplicam medidas que reduzem o consumo de energia dos equipamentos TIC (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014511,Câmaras Municipais que consideram o impacto ambiental na escolha de serviços e equipamentos TIC (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014505,Distribuição de Câmaras Municipais com estratégia definida para a cibersegurança (%) por Localização geográfica (NUTS - 2024) e Tipo de conformidade com o RJSC; Anual,Sim,2025-07-09
+0014501,Câmaras Municipais com medidas de cibersegurança implementadas (N.º) por Localização geográfica (NUTS - 2024) e Tipo de medida de segurança (TIC); Anual,Sim,2025-07-09
+0014504,Proporção de Câmaras Municipais com estratégia definida para a cibersegurança (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014503,Câmaras Municipais com estratégia definida para a cibersegurança (N.º) por Localização geográfica (NUTS - 2024) e Tipo de conformidade com o RJSC; Anual,Sim,2025-07-09
+0014502,Proporção de Câmaras Municipais com medidas de cibersegurança implementadas (%) por Localização geográfica (NUTS - 2024) e Tipo de medida de segurança (TIC); Anual,Sim,2025-07-09
+0014512,Proporção de Câmaras Municipais que consideram o impacto ambiental na escolha de serviços e equipamentos TIC (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014499,Câmaras Municipais que disponibilizam aplicações móveis ao utente (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014498,Proporção de Câmaras Municipais que disponibilizam meios de autenticação eletrónica em websites ou sistemas informáticos (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014497,Câmaras Municipais que disponibilizam meios de autenticação eletrónica em websites ou sistemas informáticos (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014496,Proporção de Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014495,Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014494,Proporção de Câmaras Municipais que utilizaram a plataforma de interoperabilidade da Administração Pública (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014493,Câmaras Municipais que utilizam a plataforma de interoperabilidade da Administração Pública (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014492,Distribuição de Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (%) por Localização geográfica (NUTS - 2024) e Finalidade da utilização da Internet das Coisas; Anual,Sim,2025-07-09
+0014491,Proporção de Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014490,Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (N.º) por Localização geográfica (NUTS - 2024) e Finalidade da utilização da Internet das Coisas; Anual,Sim,2025-07-09
+0014489,Distribuição de Câmaras Municipais que utilizam tecnologias de Inteligência Artificial (IA) (%) por Localização geográfica (NUTS - 2024) e Tipo de tecnologia de Inteligência Artificial; Anual,Sim,2025-07-09
 0014500,Proporção de Câmaras Municipais que disponibilizam aplicações móveis ao utente (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014488,Proporção de Câmaras Municipais que utilizam tecnologias de Inteligência Artificial (IA) (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014517,Câmaras Municipais que desenvolvem soluções com Código Aberto passiveis de reutilização e partilha com outros organismos públicos (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014515,Câmaras Municipais com elevada necessidade de reforço de competências TIC (N.º) por Localização geográfica (NUTS - 2024) e Área de competências TIC; Anual,Sim,2025-07-09
+0014513,Pessoal ao serviço afeto exclusivamente a atividades TIC nas Câmaras Municipais (N.º) por Localização geográfica (NUTS - 2024) e Sexo; Anual,Sim,2025-07-09
 0014518,Proporção de Câmaras Municipais que desenvolvem soluções com Código Aberto passiveis de reutilização e partilha com outros organismos públicos (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014489,Distribuição de Câmaras Municipais que utilizam tecnologias de Inteligência Artificial (IA) (%) por Localização geográfica (NUTS - 2024) e Tipo de tecnologia de Inteligência Artificial; Anual,Sim,2025-07-09
-0014490,Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (N.º) por Localização geográfica (NUTS - 2024) e Finalidade da utilização da Internet das Coisas; Anual,Sim,2025-07-09
-0014491,Proporção de Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014492,Distribuição de Câmaras Municipais que utilizam dispositivos ou sistemas interconectados que podem ser monitorizados ou controlados remotamente através da Internet (Internet das Coisas) (%) por Localização geográfica (NUTS - 2024) e Finalidade da utilização da Internet das Coisas; Anual,Sim,2025-07-09
-0014493,Câmaras Municipais que utilizam a plataforma de interoperabilidade da Administração Pública (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014494,Proporção de Câmaras Municipais que utilizaram a plataforma de interoperabilidade da Administração Pública (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014495,Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014496,Proporção de Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
+0014515,Câmaras Municipais com elevada necessidade de reforço de competências TIC (N.º) por Localização geográfica (NUTS - 2024) e Área de competências TIC; Anual,Sim,2025-07-09
 0014516,Proporção de Câmaras Municipais com elevada necessidade de reforço de competências TIC (%) por Localização geográfica (NUTS - 2024) e Área de competências TIC; Anual,Sim,2025-07-09
-0014510,Proporção de Câmaras Municipais que aplicam medidas que reduzem o consumo de energia dos equipamentos TIC (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014514,Distribuição de pessoal ao serviço afeto exclusivamente a atividades TIC nas Câmaras Municipais (%) por Localização geográfica (NUTS - 2024) e Sexo; Anual,Sim,2025-07-09
-0014497,Câmaras Municipais que disponibilizam meios de autenticação eletrónica em websites ou sistemas informáticos (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0014498,Proporção de Câmaras Municipais que disponibilizam meios de autenticação eletrónica em websites ou sistemas informáticos (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0004347,Valor médio das pensões da segurança social (€/ N.º) por Tipo de pensão; Anual,Sim,2025-07-08
-0004324,Pensionistas da segurança social (N.º) por Tipo de pensão; Anual,Sim,2025-07-08
-0004325,Pensionistas da segurança social em 31 dezembro (N.º) por Tipo de pensão; Anual,Sim,2025-07-08
-0004345,Pensões da segurança social (€) por Tipo de pensão; Anual,Sim,2025-07-08
 0004346,Pensões da segurança social em 31 dezembro (€) por Tipo de pensão; Anual,Sim,2025-07-08
-0011467,"Doações alimentares recebidas pelos Bancos Alimentares (t) por Localização geográfica (NUTS - 2013), Origem das doações e Tipo de produto (doações alimentares); Anual",Sim,2025-07-07
+0004345,Pensões da segurança social (€) por Tipo de pensão; Anual,Sim,2025-07-08
+0004325,Pensionistas da segurança social em 31 dezembro (N.º) por Tipo de pensão; Anual,Sim,2025-07-08
+0004324,Pensionistas da segurança social (N.º) por Tipo de pensão; Anual,Sim,2025-07-08
+0004347,Valor médio das pensões da segurança social (€/ N.º) por Tipo de pensão; Anual,Sim,2025-07-08
 0013232,"Doações alimentares recebidas pelos Bancos Alimentares (t) por Localização geográfica (NUTS - 2024), Origem das doações e Tipo de produto (doações alimentares); Anual",Sim,2025-07-07
-0002723,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
-0002725,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
-0002724,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
-0011389,Proporção da população empregada na indústria transformadora (Série 2021 - %) por Local de residência (NUTS - 2024); Anual,Sim,2025-07-03
-0011390,"Proporção da população desempregada à procura de novo emprego que recebe subsídio de desemprego (Série 2021 - %) por Local de residência (NUTS - 2024), Sexo e Grupo etário; Anual",Sim,2025-07-03
+0011467,"Doações alimentares recebidas pelos Bancos Alimentares (t) por Localização geográfica (NUTS - 2013), Origem das doações e Tipo de produto (doações alimentares); Anual",Sim,2025-07-07
 0011388,Proporção da população empregada com cargos de chefia (Série 2021 - %) por Local de residência (NUTS - 2024) e Sexo; Anual,Sim,2025-07-03
+0002725,Produtos vendidos (€) da indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
+0002723,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
+0002724,Produtos vendidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
+0011390,"Proporção da população desempregada à procura de novo emprego que recebe subsídio de desemprego (Série 2021 - %) por Local de residência (NUTS - 2024), Sexo e Grupo etário; Anual",Sim,2025-07-03
+0011389,Proporção da população empregada na indústria transformadora (Série 2021 - %) por Local de residência (NUTS - 2024); Anual,Sim,2025-07-03
 0014483,Superfície ardida média (ha) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-02
-0014482,Índice de preços na produção de serviços (taxa de variação média anual - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
-0014481,Índice de preços na produção de serviços (taxa de variação homóloga - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
 0014479,Índice de preços na produção de serviços (IPPS - Base 2021) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
+0014482,Índice de preços na produção de serviços (taxa de variação média anual - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
 0014480,Índice de preços na produção de serviços (taxa de variação trimestral - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
+0014481,Índice de preços na produção de serviços (taxa de variação homóloga - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral,Sim,2025-07-01
+0014472,Taxa de sobrecarga das despesas em habitação (%) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-06-30
 0014470,Desempregados inscritos em centros de emprego do IEFP (movimento ao longo do mês - N.º); Mensal,Sim,2025-06-30
 0014474,Taxa de sobrelotação da habitação (%) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-06-30
+0014476,Aves e coelhos abatidos e aprovados para consumo (N.º) por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
+0014477,Peso limpo de aves e coelhos abatidos e aprovados para consumo (t)  por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
+0014478,Peso médio de aves e coelhos abatidos e aprovados para consumo (kg/ cabeça) por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
 0014475,Taxa de privação severa das condições da habitação (%) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-06-30
 0014473,Carga mediana das despesas em habitação (%) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-06-30
-0014478,Peso médio de aves e coelhos abatidos e aprovados para consumo (kg/ cabeça) por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
-0014477,Peso limpo de aves e coelhos abatidos e aprovados para consumo (t)  por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
-0014476,Aves e coelhos abatidos e aprovados para consumo (N.º) por Localização geográfica (NUTS - 2024) e Categoria (aves e coelhos abatidos); Anual,Sim,2025-06-30
 0014471,Ofertas de emprego em centros de emprego do IEFP (movimento ao longo do mês - N.º); Mensal,Sim,2025-06-30
-0014472,Taxa de sobrecarga das despesas em habitação (%) por Local de residência (NUTS - 2024) e Tipologia de áreas urbanas; Anual,Sim,2025-06-30
 0014469,"Taxa de mortalidade por lesões autoprovocadas intencionalmente (suicídio) por 100 000 habitantes (N.º) por Local de residência (NUTS - 2024), Sexo e Grupo etário; Anual",Sim,2025-06-20
 0009716,Capacidade instalada para produção de eletricidade a partir de fontes de energia renováveis através de novas tecnologias ou tecnologias pouco disseminadas (MW) por Localização geográfica (NUTS - 2013) e Tipos de fontes de energia renováveis pouco disseminadas; Anual,Sim,2025-06-17
-0012863,Período de internamento (Dia) nos hospitais por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-16
 0012892,Taxa de ocupação das camas nos hospitais (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-16
-0001432,Indivíduos eleitos para a Assembleia da República (N.º) por Sexo e Partidos políticos; Não periódica,Sim,2025-06-09
+0012863,Período de internamento (Dia) nos hospitais por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-16
 0011826,Taxa de prevalência da insegurança alimentar moderada ou grave (%) da população residente; Anual,Sim,2025-06-09
+0001432,Indivíduos eleitos para a Assembleia da República (N.º) por Sexo e Partidos políticos; Não periódica,Sim,2025-06-09
 0007319,"Proporção de dirigentes no setor das administrações públicas (%) por Sexo, Grupo etário, Cargo e Subsetor de administração; Anual",Sim,2025-06-09
-0014458,Vendas de combustíveis líquidos e gasosos (t) das empresas por Localização geográfica (NUTS - 2024) e Tipo de combustível; Anual,Sim,2025-06-06
 0014459,Consumo de combustível automóvel por habitante (tep/ hab.) por Local de residência (NUTS - 2024); Anual,Sim,2025-06-06
+0014458,Vendas de combustíveis líquidos e gasosos (t) das empresas por Localização geográfica (NUTS - 2024) e Tipo de combustível; Anual,Sim,2025-06-06
 0007533,Óbitos de menos de 1 ano (N.º) por Local de residência; Mensal,Sim,2025-06-06
 0014460,Produção bruta de eletricidade (kWh) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-06
-0014456,Índice sintético de desenvolvimento regional (Coesão) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-04
 0014454,Índice sintético de desenvolvimento regional (Índice global) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-04
+0014456,Índice sintético de desenvolvimento regional (Coesão) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-04
 0014457,Índice sintético de desenvolvimento regional (Qualidade ambiental) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-04
 0014455,Índice sintético de desenvolvimento regional (Competitividade) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-06-04
+0014453,Distribuição dos agregados domésticos privados que utilizaram transportes públicos (%) por Avaliação do encargo com transportes públicos e Condição de pobreza; Sexenal,Sim,2025-06-03
 0014452,Distribuição da população residente com 16 e mais anos de idade que não utilizou transportes públicos com frequência (%) por Motivo principal para não ter utilizado transportes públicos com mais frequência; Sexenal,Sim,2025-06-03
 0014451,"Proporção da população residente com 16 e mais anos de idade que nunca, ou quase nunca, utilizou transportes públicos (%) por Tipologia de áreas urbanas e Condição de pobreza; Sexenal",Sim,2025-06-03
 0014450,"Distribuição da população residente com 16 e mais anos de idade (%) por Sexo, Grupo etário e Frequência de utilização de transportes públicos; Sexenal",Sim,2025-06-03
-0014453,Distribuição dos agregados domésticos privados que utilizaram transportes públicos (%) por Avaliação do encargo com transportes públicos e Condição de pobreza; Sexenal,Sim,2025-06-03
 0014433,Taxa de privação material e social severa da população residente com menos de 16 anos (%); Trienal,Sim,2025-06-02
 0014434,Proporção da população residente com menos de 16 anos de idade com necessidade de consulta médica não concretizada (exceto medicina dentária) (%); Trienal,Sim,2025-06-02
-0014432,Taxa de privação material e social da população residente com menos de 16 anos (%); Trienal,Sim,2025-06-02
 0014435,Proporção da população residente com menos de 16 anos de idade com necessidade de consulta com dentista não concretizada (%); Trienal,Sim,2025-06-02
-0014449,Empresas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 3); Anual,Sim,2025-06-02
+0014432,Taxa de privação material e social da população residente com menos de 16 anos (%); Trienal,Sim,2025-06-02
 0009963,Emissão de substâncias acidificantes e eutrofizantes (kt ácidoeq) por Tipo de substância e Setor de emissão; Anual,Sim,2025-06-02
+0014441,Proporção das crianças até aos 12 anos de idade com necessidade de cuidados formais de acompanhamento não satisfeita (%); Sexenal,Sim,2025-06-02
+0014449,Empresas (N.º) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 3); Anual,Sim,2025-06-02
+0014437,Distribuição da população residente com menos de 16 anos de idade (%) por Sexo e Limitação na realização de atividades consideradas habituais para a idade; Trienal,Sim,2025-06-02
+0010040,Emissões totais de gases com efeito de estufa (kt CO₂eq); Anual,Sim,2025-06-02
 0014436,Distribuição da população residente com menos de 16 anos de idade (%) por Sexo e Autoapreciação do estado de saúde; Trienal,Sim,2025-06-02
 0014442,Distribuição das crianças até aos 12 anos de idade com necessidade de cuidados formais de acompanhamento não satisfeita (%) por Motivo principal da não satisfação; Sexenal,Sim,2025-06-02
-0014441,Proporção das crianças até aos 12 anos de idade com necessidade de cuidados formais de acompanhamento não satisfeita (%); Sexenal,Sim,2025-06-02
-0009961,Emissão de gases de efeito estufa (kt CO₂eq) por Setor de emissão; Anual,Sim,2025-06-02
 0009962,Emissão de principais gases de efeito de estufa (kt CO₂eq) por Tipo de gás e Setor de emissão; Anual,Sim,2025-06-02
-0010040,Emissões totais de gases com efeito de estufa (kt CO₂eq); Anual,Sim,2025-06-02
 0009964,Emissão de substâncias precursoras de ozono troposférico (kt COVNMeq) por Tipo de substância e Setor de emissão; Anual,Sim,2025-06-02
-0014437,Distribuição da população residente com menos de 16 anos de idade (%) por Sexo e Limitação na realização de atividades consideradas habituais para a idade; Trienal,Sim,2025-06-02
-0014445,Vendas de combustíveis no mercado interno (t) por Tipo de combustível; Mensal,Sim,2025-05-30
-0014447,Consumo de eletricidade corrigido de dias úteis e temperatura (GWh); Mensal,Sim,2025-05-30
-0014448,Consumo de eletricidade corrigido de dias úteis e temperatura (Taxa de variação homóloga - %); Mensal,Sim,2025-05-30
-0014443,Preço do petróleo Brent (€/ barril); Mensal,Sim,2025-05-30
-0014444,Preço do petróleo Brent (Taxa de variação homóloga - %); Mensal,Sim,2025-05-30
+0009961,Emissão de gases de efeito estufa (kt CO₂eq) por Setor de emissão; Anual,Sim,2025-06-02
 0014446,Vendas de combustíveis no mercado interno (Taxa de variação homóloga - %) por Tipo de combustível; Mensal,Sim,2025-05-30
+0014445,Vendas de combustíveis no mercado interno (t) por Tipo de combustível; Mensal,Sim,2025-05-30
+0014444,Preço do petróleo Brent (Taxa de variação homóloga - %); Mensal,Sim,2025-05-30
+0014447,Consumo de eletricidade corrigido de dias úteis e temperatura (GWh); Mensal,Sim,2025-05-30
+0014443,Preço do petróleo Brent (€/ barril); Mensal,Sim,2025-05-30
+0014448,Consumo de eletricidade corrigido de dias úteis e temperatura (Taxa de variação homóloga - %); Mensal,Sim,2025-05-30
+0014439,Proporção das crianças até aos 12 anos de idade que recebiam cuidados formais de acompanhamento (%) por Tipologia de áreas urbanas e Modalidade de pagamento; Sexenal,Sim,2025-05-29
 0014440,Proporção das crianças até aos 12 anos de idade que recebiam cuidados formais de acompanhamento (%) por Condição de pobreza e Modalidade de pagamento; Sexenal,Sim,2025-05-29
 0014438,Proporção das crianças até aos 12 anos de idade que recebiam cuidados formais de acompanhamento (%) por Grupo etário e Modalidade de pagamento; Sexenal,Sim,2025-05-29
-0014439,Proporção das crianças até aos 12 anos de idade que recebiam cuidados formais de acompanhamento (%) por Tipologia de áreas urbanas e Modalidade de pagamento; Sexenal,Sim,2025-05-29
 0014430,Taxa de privação severa das condições da habitação (%) por Grupo etário; Anual,Sim,2025-05-28
 0014429,Taxa de sobrelotação da habitação (%) por Grupo etário; Anual,Sim,2025-05-28
-0014431,Proporção de superfície das áreas classificadas (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-05-28
 0014428,Taxa de sobrecarga das despesas em habitação (%) por Grupo etário; Anual,Sim,2025-05-28
+0014431,Proporção de superfície das áreas classificadas (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-05-28
 0014427,Carga mediana das despesas em habitação (%) por Grupo etário; Anual,Sim,2025-05-28
 0001192,Perspetivas sobre o volume de exportações nos próximos 3 meses (Saldo de respostas extremas) da indústria transformadora por Tipo de bens; Trimestral,Sim,2025-05-27
 0001209,Apreciação sobre o emprego nos últimos 3 meses (SRE - Valores corrigidos de sazonalidade) dos serviços; Mensal,Sim,2025-05-27
