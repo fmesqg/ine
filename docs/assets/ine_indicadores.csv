@@ -14681,3 +14681,7 @@ var_cod,description,portal,last_update
 ,"Quociente de mortalidade (projeções 2025 - 2100) por Local de residência (NUTS - 2024), Sexo, Idade e Cenário; Anual",Não,
 ,"Taxa de desemprego (Série 2021 - %) por Sexo, Grupo etário e Limitação na realização de atividades devido a problema de saúde; Anual",Não,
 ,"Rendimento médio mensal líquido (Série 2021 - €) da população empregada por conta de outrem por Sexo, Grupo etário e Limitação na realização de atividades devido a problema de saúde; Anual",Não,
+,Receitas da proteção social (% do PIBpm - Base 2021) por Natureza das receitas; Anual,Não,
+,Despesas da proteção social (% do PIBpm - Base 2021) por Natureza das despesas; Anual,Não,
+,Despesas em prestações da proteção social (% do PIBpm - Base 2021) por Funções de proteção social; Anual,Não,
+,Despesas da proteção social em pensões (% do PIBpm - Base 2021) por Categorias de pensões da proteção social; Anual,Não,
