@@ -8103,7 +8103,7 @@ var_cod,description,portal,last_update
 0001176,Perspetiva sobre oportunidade de realização de poupança nos próximos 12 meses (Saldo de respostas extremas); Mensal,Sim,2023-12-28
 0001164,Perspetiva sobre aquisição de bens de equipamento nos próximos 12 meses (Saldo de respostas extremas); Mensal,Sim,2023-12-28
 0001166,Perspetiva sobre evolução do desemprego nos próximos 12 meses (Saldo de respostas extremas); Mensal,Sim,2023-12-28
-0001175,Grau de poupança do agregado familiar (Saldo de respostas extremas); Mensal,Sim,2023-12-28
+0001175,Grau de poupança do agregado familiar dos consumidores (Saldo de respostas extremas); Mensal,Sim,2023-12-28
 0001174,Oportunidade de realização de poupança (Saldo de respostas extremas); Mensal,Sim,2023-12-28
 0001025,Proporção de indivíduos com idade entre 16 e 74 anos que utilizaram Internet nos primeiros 3 meses do ano (%) por Nível de escolaridade mais elevado completo; Anual,Sim,2023-12-28
 0001165,Oportunidade de compra de bens duradouros (Saldo de respostas extremas); Mensal,Sim,2023-12-28
@@ -13701,10 +13701,10 @@ var_cod,description,portal,last_update
 ,Proporção de indivíduos com idade entre 18 e 64 anos que conhecem outras línguas além da materna (%) por Local de residência (NUTS - 2002) e Sexo; Quinquenal,Não,
 ,Indivíduos com idade entre 18 e 64 anos que conhecem outras línguas além da materna (N.º) por Local de residência (NUTS - 2002) e Sexo; Quinquenal,Não,
 ,Proporção da população empregada com idade entre 18 e 64 anos que conhece outras línguas além da materna (%) por Sexo e Profissão; Quinquenal,Não,
-,Proporção de superfície agrícola utilizada irrigável (%); Anual,Não,
-,Proporção de superfície regada (%) na superfície agrícola irrigável; Anual,Não,
-,Proporção de terras aráveis ocupadas com culturas temporárias sucessivas (%) por Localização geográfica (Região agrária); Anual,Não,
-,Proporção de produtores agrícolas singulares com 55 e mais anos de idade (%) por Localização geográfica (Região agrária); Anual,Não,
+,Proporção de superfície agrícola utilizada irrigável (%); Não periódica,Não,
+,Proporção de superfície regada (%) na Superfície agrícola irrigável; Não periódica,Não,
+,Proporção de terras aráveis ocupadas com culturas temporárias sucessivas (%) por Localização geográfica (Região agrária); Não periódica,Não,
+,Proporção de produtores agrícolas singulares com 55 e mais anos de idade (%) por Localização geográfica (Região agrária); Não periódica,Não,
 ,Diplomados do ensino superior em áreas de C&T (N.º) por Localização geográfica (NUTS - 2002); Anual,Não,
 ,Diplomados do ensino superior em áreas de C&T (N.º) por Localização geográfica (NUTS - 2001); Anual,Não,
 ,Doutorados do ensino superior em áreas de C&T (N.º) por Localização geográfica (NUTS - 2002); Anual,Não,
@@ -14725,3 +14725,13 @@ var_cod,description,portal,last_update
 ,População empregada (Série 2021 - N.º) por Sexo e Atividade económica (Secção - CAE Rev. 4); Trimestral,Não,
 ,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Duração semanal efetiva de trabalho; Trimestral",Não,
 ,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Duração semanal habitual de trabalho; Trimestral",Não,
+,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Regime de duração de trabalho; Trimestral",Não,
+,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Situação na profissão; Trimestral",Não,
+,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Contrato de trabalho; Trimestral",Não,
+,Rendimento médio mensal líquido (Série 2021 - €) da população empregada por conta de outrem por Sexo e Setor de atividade económica (CAE Rev.4); Trimestral,Não,
+,Duração semanal efetiva de trabalho (Serie 2021 - h) da população empregada por conta de outrem por Sexo e Setor de atividade económica (CAE Rev.4); Trimestral,Não,
+,Duração semanal efetiva de trabalho (Série 2021 - h) da população empregada por Sexo e Setor de atividade económica (CAE Rev.4); Trimestral,Não,
+,"População empregada (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Antiguidade no emprego; Trimestral",Não,
+,População empregada (Série 2021 - N.º) por Setor de atividade económica (CAE Rev.4) e Setor de atividade económica secundária (CAE Rev. 4); Trimestral,Não,
+,"População empregada por conta de outrem (Série 2021 - N.º) por Sexo, Setor de atividade económica (CAE Rev.4) e Rendimento líquido mensal; Trimestral",Não,
+,Rendimento médio mensal líquido (Série 2021 - €) da população empregada por conta de outrem por Setor de atividade económica (CAE Rev.4); Trimestral,Não,
