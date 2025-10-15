@@ -14780,3 +14780,7 @@ var_cod,description,portal,last_update
 ,Capitação diária de calorias disponível para abastecimento (tabela de composição dos alimentos 2016 - kcal/ hab.) por Tipo de bebida não alcoólica; Anual,Não,
 ,Capitação diária de vitaminas disponível para abastecimento (tabela de composição dos alimentos 2016 - µg/ hab.) por Tipo de vitamina e Tipo de bebida não alcoólica; Anual,Não,
 ,Capitação diária de minerais disponível para abastecimento (tabela de composição dos alimentos 2016 - mg/ hab.) por Tipo de mineral e Tipo de bebida não alcoólica; Anual,Não,
+,"Importações (€) de bens por Local de origem, Tipo de bens (Nomenclatura combinada - NC2) e Agrupamento de natureza da transação; Mensal",Não,
+,"Exportações (€) de bens por Local de destino, Tipo de bens (Nomenclatura combinada - NC2) e Agrupamento de natureza da transação; Mensal",Não,
+,"Importações (€) de bens por Local de origem, Tipo de bens (Nomenclatura combinada - NC2) e Agrupamento de natureza da transação; Anual",Não,
+,"Exportações (€) de bens por Local de destino, Tipo de bens (Nomenclatura combinada - NC2) e Agrupamento de natureza da transação; Anual",Não,
