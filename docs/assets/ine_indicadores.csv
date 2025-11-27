@@ -468,8 +468,8 @@ var_cod,description,portal,last_update
 0014495,Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014493,Câmaras Municipais que utilizam a plataforma de interoperabilidade da Administração Pública (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
 0014496,Proporção de Câmaras Municipais que disponibilizam estações de trabalho virtuais ou a partir de casa (%) por Localização geográfica (NUTS - 2024); Anual,Sim,2025-07-09
-0004325,Pensionistas da segurança social em 31 dezembro (N.º) por Tipo de pensão; Anual,Sim,2025-07-08
-0004346,Pensões da segurança social em 31 dezembro (€) por Tipo de pensão; Anual,Sim,2025-07-08
+0004325,Pensionistas da segurança social em 31 dezembro (Série 1990-2023 - N.º) por Tipo de pensão; Anual,Sim,2025-07-08
+0004346,Pensões da segurança social em 31 dezembro (Série 1990-2023 - €) por Tipo de pensão; Anual,Sim,2025-07-08
 0011467,"Doações alimentares recebidas pelos Bancos Alimentares (t) por Localização geográfica (NUTS - 2013), Origem das doações e Tipo de produto (doações alimentares); Anual",Sim,2025-07-07
 0013232,"Doações alimentares recebidas pelos Bancos Alimentares (t) por Localização geográfica (NUTS - 2024), Origem das doações e Tipo de produto (doações alimentares); Anual",Sim,2025-07-07
 0002723,Produtos produzidos na indústria por Tipo de produto (CAE Rev. 3); Anual,Sim,2025-07-03
@@ -1882,7 +1882,7 @@ var_cod,description,portal,last_update
 0013407,Valor processado da prestação social para a inclusão da segurança social (€) por Local de residência (NUTS - 2024) e Sexo; Anual,Sim,2024-08-28
 0013399,Pensões da segurança social (€) por Local de residência (NUTS - 2024); Anual,Sim,2024-08-27
 0013403,"Beneficiárias/os de licença parental inicial, da segurança social (N.º) por Local de residência (NUTS - 2024) e Sexo; Anual",Sim,2024-08-27
-0013401,Pensões da segurança social em 31 dezembro (€) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-27
+0013401,Pensões da segurança social em 31 dezembro (Série 1990-2023 - €) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-27
 0013398,Valor médio das pensões da segurança social (Série 1990-2023 - €/ N.º) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-27
 0012078,"Despesas em ambiente (€) dos municípios por Localização geográfica (NUTS - 2024), Classificador económico (Despesas) e Domínios de ambiente; Anual",Sim,2024-08-27
 0013400,Pensões da segurança social (Série 1990-2023 - €) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-27
@@ -1896,7 +1896,7 @@ var_cod,description,portal,last_update
 0013393,Pensionistas da segurança social (N.º) por Local de residência (NUTS - 2024); Anual,Sim,2024-08-23
 0013389,Duração média do subsídio de doença da segurança social (Dia) por Local de residência (NUTS - 2024); Anual,Sim,2024-08-23
 0013395,Pensionistas da segurança social (Série 1990-2023 - N.º) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-23
-0013396,Pensionistas da segurança social em 31 dezembro (N.º) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-23
+0013396,Pensionistas da segurança social em 31 dezembro (Série 1990-2023 - N.º) por Local de residência (NUTS - 2024) e Tipo de pensão; Anual,Sim,2024-08-23
 0013386,Valor processado de subsídios de desemprego da segurança social (€) por Local de residência (NUTS - 2024) e Sexo; Anual,Sim,2024-08-22
 0013385,Novas/os beneficiárias/os de subsídios de desemprego da segurança social (N.º) por Local de residência (NUTS - 2024) e Sexo; Anual,Sim,2024-08-22
 0013384,"Beneficiárias/os de subsídios de desemprego, da segurança social (N.º) por Local de residência (NUTS - 2024) e Grupo etário; Anual",Sim,2024-08-22
@@ -9523,8 +9523,8 @@ var_cod,description,portal,last_update
 0010281,Valor processado de subsídios de desemprego da segurança social (€) por Local de residência (NUTS - 2013) e Sexo; Anual,Sim,2020-11-11
 0010280,Novas/os beneficiárias/os de subsídios de desemprego da segurança social (N.º) por Local de residência (NUTS - 2013) e Sexo; Anual,Sim,2020-11-10
 0010276,Pensões da segurança social (Série 1990-2023 - €) por Local de residência (NUTS - 2013) e Tipo de pensão; Anual,Sim,2020-11-10
-0010275,Pensionistas da segurança social em 31 dezembro (N.º) por Local de residência (NUTS - 2013) e Tipo de pensão; Anual,Sim,2020-11-10
-0010277,Pensões da segurança social em 31 dezembro (€) por Local de residência (NUTS - 2013) e Tipo de pensão; Anual,Sim,2020-11-10
+0010275,Pensionistas da segurança social em 31 dezembro (Série 1990-2023 - N.º) por Local de residência (NUTS - 2013) e Tipo de pensão; Anual,Sim,2020-11-10
+0010277,Pensões da segurança social em 31 dezembro (Série 1990-2023 - €) por Local de residência (NUTS - 2013) e Tipo de pensão; Anual,Sim,2020-11-10
 0010278,"Beneficiárias/os de subsídios de desemprego, da segurança social (N.º) por Local de residência (NUTS - 2013) e Sexo; Anual",Sim,2020-11-10
 0010279,"Beneficiárias/os de subsídios de desemprego, da segurança social (N.º) por Local de residência (NUTS - 2013) e Grupo etário; Anual",Sim,2020-11-10
 0010270,Duração média do subsídio de doença da segurança social (Dia) por Local de residência (NUTS - 2013); Anual,Sim,2020-11-09
