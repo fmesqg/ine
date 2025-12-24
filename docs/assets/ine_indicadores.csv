@@ -1879,9 +1879,9 @@ var_cod,description,portal,last_update
 0013456,Bilhetes oferecidos em espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2024) e Tipo de sessão; Anual,Sim,2024-09-20
 0013457,Espectadores de espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2024) e Tipo de sessão; Anual,Sim,2024-09-20
 0013454,Sessões de espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2024) e Tipo de sessão; Anual,Sim,2024-09-20
-0013453,Espectadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2024-09-20
-0013448,Praias acessíveis a pessoas com mobilidade reduzida (N.º) por Localização geográfica (NUTS - 2024) e Tipo de água balnear; Anual,Sim,2024-09-12
-0013447,"Águas balneares (N.º) por Localização geográfica (NUTS - 2024), Tipo de água balnear e Existência de praias acessíveis a pessoas com mobilidade reduzida; Anual",Sim,2024-09-12
+0013453,Espetadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2024); Anual,Sim,2024-09-20
+0013448,Praias acessíveis a pessoas com mobilidade condicionada (N.º) por Localização geográfica (NUTS - 2024) e Tipo de água balnear; Anual,Sim,2024-09-12
+0013447,"Águas balneares (N.º) por Localização geográfica (NUTS - 2024), Tipo de água balnear e Existência de praias acessíveis a pessoas com mobilidade condicionada; Anual",Sim,2024-09-12
 0013446,Praias de banho vigiadas (N.º) por Localização geográfica (NUTS - 2024) e Tipo de água balnear; Anual,Sim,2024-09-12
 0013445,"Águas balneares (N.º) por Localização geográfica (NUTS - 2024), Tipo de água balnear e Existência de praias de banhos; Anual",Sim,2024-09-12
 0013444,Patentes licenciadas de invenções ambientais (N.º/ milhão hab.) por Localização geográfica (NUTS I) e Área temática de ambiente; Anual,Sim,2024-09-09
@@ -9594,12 +9594,12 @@ var_cod,description,portal,last_update
 0010190,Proporção de votos nulos nas eleições para as Câmaras Municipais (%) por Local de residência (NUTS - 2013); Não periódica,Sim,2020-10-20
 0010193,População inscrita nas eleições para as Câmaras Municipais (N.º) por Local de residência (NUTS - 2013); Não periódica,Sim,2020-10-20
 0008664,"Águas balneares (N.º) por Localização geográfica (NUTS - 2013), Tipo de água balnear e Classes de qualidade; Anual",Sim,2020-10-14
-0009219,"Águas balneares (N.º) por Localização geográfica (NUTS - 2013), Tipo de água balnear e Existência de praias acessíveis a pessoas com mobilidade reduzida; Anual",Sim,2020-10-14
+0009219,"Águas balneares (N.º) por Localização geográfica (NUTS - 2013), Tipo de água balnear e Existência de praias acessíveis a pessoas com mobilidade condicionada; Anual",Sim,2020-10-14
 0009218,Praias de banho vigiadas (N.º) por Localização geográfica (NUTS - 2013) e Tipo de água balnear; Anual,Sim,2020-10-14
 0006684,"Águas balneares (N.º) por Localização geográfica (NUTS - 2001), Tipo de água balnear e Classes de qualidade; Anual",Sim,2020-10-14
 0009217,"Águas balneares (N.º) por Localização geográfica (NUTS - 2013), Tipo de água balnear e Existência de praias de banhos; Anual",Sim,2020-10-14
 0006683,"Águas balneares (N.º) por Localização geográfica (NUTS - 2002), Tipo de água balnear e Classes de qualidade; Anual",Sim,2020-10-14
-0009220,Praias acessíveis a pessoas com mobilidade reduzida (N.º) por Localização geográfica (NUTS - 2013) e Tipo de água balnear; Anual,Sim,2020-10-14
+0009220,Praias acessíveis a pessoas com mobilidade condicionada (N.º) por Localização geográfica (NUTS - 2013) e Tipo de água balnear; Anual,Sim,2020-10-14
 0010236,Proporção de formação bruta de capital fixo no valor acrescentado bruto (Base 2016 - %) por Localização geográfica (NUTS - 2013) e Ramo de atividade (A10); Anual,Sim,2020-10-09
 0010239,Remuneração dos empregados no valor acrescentado bruto (Base 2016 - %) por Localização geográfica (NUTS - 2013) e Ramo de atividade (A10); Anual,Sim,2020-10-09
 0010238,Remuneração média dos empregados (Base 2016 - €) por Localização geográfica (NUTS - 2013) e Ramo de atividade (A10); Anual,Sim,2020-10-09
@@ -9677,7 +9677,7 @@ var_cod,description,portal,last_update
 0008619,Sessões de espetáculos ao vivo (N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
 0001106,Espetadores de espetáculos ao vivo (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2020-06-06
 0004089,Espetadores de cinema (Metodologia 2006 - N.º) por Localização geográfica (NUTS - 2001); Anual,Sim,2020-06-06
-0002157,Espectadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2001); Anual,Sim,2020-06-06
+0002157,Espetadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2001); Anual,Sim,2020-06-06
 0010092,Sessões de cinema (Metodologia 2006 - N.º) por Localização geográfica (NUTS - 2013); Mensal,Sim,2020-06-06
 0008617,Espetadores de espetáculos ao vivo (N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
 0001108,Espetadores de cinema (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2020-06-06
@@ -9692,10 +9692,10 @@ var_cod,description,portal,last_update
 0003759,Sessões de espetáculos ao vivo (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2020-06-06
 0009956,Sessões de espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2013) e Tipo de sessão; Anual,Sim,2020-06-06
 0002408,Espetadores de cinema por habitante (N.º) por Localização geográfica (NUTS - 2002 - Município); Anual,Sim,2020-06-06
-0002409,Espectadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2020-06-06
+0002409,Espetadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2002); Anual,Sim,2020-06-06
 0008344,Sessões de cinema (Metodologia 2006 - N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
 0009958,Bilhetes oferecidos em espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2013) e Tipo de sessão; Anual,Sim,2020-06-06
-0008621,Espectadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
+0008621,Espetadores de espetáculos ao vivo por habitante (N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
 0008347,Espetadores de cinema por habitante (Metodologia 2006 - N.º) por Localização geográfica (NUTS - 2013); Anual,Sim,2020-06-06
 0009959,Espectadores de espetáculos de tauromaquia (N.º) por Localização geográfica (NUTS - 2013) e Tipo de sessão; Anual,Sim,2020-06-06
 0010102,Aeronaves aterradas (N.º) nos aeroportos por Continente de origem; Mensal,Sim,2020-05-29
@@ -14832,3 +14832,19 @@ var_cod,description,portal,last_update
 ,Proporção de empresas com 10 e mais pessoas ao serviço com ligação à Internet (%) por Atividade económica (Secção - CAE Rev.4); Anual,Não,
 ,"Edifícios (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Época de construção e Dimensão da necessidade de reparação do edifício; Decenal",Não,
 ,"Edifícios (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Tipos de edifício clássico e Dimensão de pisos; Decenal",Não,
+,Alojamentos familiares clássicos de residência habitual (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025) e Regime de ocupação; Decenal,Não,
+,Alojamentos (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025) e Tipo (alojamento); Decenal,Não,
+,"Alojamentos familiares clássicos (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Forma de ocupação e Época de construção; Decenal",Não,
+,"Alojamentos familiares clássicos de residência habitual (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Escalão de divisões e Escalão de área útil; Decenal",Não,
+,Alojamentos familiares clássicos de residência habitual (N.º) por Localização geográfica à data dos Censos [2021] (NUTS - 2024 - geografia 2025) e Lotação; Decenal,Não,
+,"Agregados domésticos privados (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo (representante do agregado doméstico privado), Dimensão (agregado doméstico privado) e Nacionalidade (País do Representante); Decenal",Não,
+,"Agregados domésticos privados (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo (representante do agregado doméstico privado), Tipo de agregado doméstico privado (Com base nos núcleos familiares - Censos 2021) e Dimensão (agregado doméstico privado); Decenal",Não,
+,Núcleos familiares (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025) e Tipo de núcleo familiar; Decenal,Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo e Grupo etário (Por ciclos de vida); Decenal",Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Grupo etário (<15;>=75 anos) e Nível de escolaridade mais elevado completo; Decenal",Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Grupo etário e Nacionalidade; Decenal",Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Grupo etário e Naturalidade (País); Decenal",Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Grupo etário, Condição perante o trabalho e Escalão de dimensão populacional (do lugar); Decenal",Não,
+,"População ativa (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Grupo etário e Estado civil; Decenal",Não,
+,"População empregada (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Setor de atividade económica e Situação na profissão; Decenal",Não,
+,"População residente (N.º) por Local de residência à data dos Censos [2021] (NUTS - 2024 - geografia 2025), Sexo, Estado civil, Grupo etário (<15;>=75 anos) e Relação de conjugalidade; Decenal",Não,
