@@ -13498,7 +13498,6 @@ var_cod,description,portal,last_update
 ,Postos de trabalho (Base 2000 - N.º) por Ramo de atividade (A31); Anual,Não,
 ,Postos de trabalho (Base 2000 - N.º) por Setor institucional (S1n2); Anual,Não,
 ,"Veículos pesados de mercadorias utilizados (N.º) por Localização geográfica (Continente), Tipo de parque, Categoria (veículo pesado de mercadorias) e Tipo de caixa; Anual",Não,
-,"Veículos pesados de mercadorias utilizados (N.º) por Localização geográfica (Continente), Tipo de parque, Categoria (veículo pesado de mercadorias) e Escalão de configuração dos eixos; Anual",Não,
 ,"Distância percorrida (km) pelos veículos pesados de mercadorias por Localização geográfica (Continente), Tipo de parque, Categoria (veículo pesado de mercadorias) e Tipo de percurso; Anual",Não,
 ,"Peso da mercadoria transportada (t) pelos veículos pesados de mercadorias por Localização geográfica (Continente), Tipo de parque, Categoria (veículo pesado de mercadorias) e Tipo de percurso; Anual",Não,
 ,Peso da mercadoria em transporte nacional (t) nos veículos pesados de mercadorias por Local de origem da mercadoria transportada (NUTS - 2013) e Mercadoria transportada; Anual,Não,
